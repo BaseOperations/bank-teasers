@@ -1,0 +1,1216 @@
+{
+  "company": "Woodforest National Bank",
+  "company_legal": "Woodforest National Bank",
+  "source_file": "Woodforest National Bank.xlsx",
+  "has_quarter_mile": true,
+  "missing_categories": [],
+  "counts": {
+    "submitted": 744,
+    "scored": 744,
+    "unscored": 0,
+    "quarantined_international": 0,
+    "states": 17,
+    "regions": 3,
+    "markets": 14,
+    "sites_in_markets": 116
+  },
+  "median_overall": 35.0,
+  "median_tier": "Low",
+  "min_overall": 1.0,
+  "max_overall": 71.0,
+  "high_count": 4,
+  "critical_count": 0,
+  "tiers": [
+    {
+      "name": "Very Low",
+      "min": 0,
+      "max": 30,
+      "count": 242,
+      "pct": 32.5
+    },
+    {
+      "name": "Low",
+      "min": 30,
+      "max": 50,
+      "count": 368,
+      "pct": 49.5
+    },
+    {
+      "name": "Medium",
+      "min": 50,
+      "max": 70,
+      "count": 130,
+      "pct": 17.5
+    },
+    {
+      "name": "High",
+      "min": 70,
+      "max": 90,
+      "count": 4,
+      "pct": 0.5
+    },
+    {
+      "name": "Critical",
+      "min": 90,
+      "max": 100,
+      "count": 0,
+      "pct": 0.0
+    }
+  ],
+  "regions": [
+    {
+      "name": "South",
+      "count": 544,
+      "median": 36.0,
+      "min": 1.0,
+      "max": 71.0,
+      "high_or_worse": 4,
+      "reportable": true
+    },
+    {
+      "name": "Midwest",
+      "count": 153,
+      "median": 30.0,
+      "min": 2.0,
+      "max": 69.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Northeast",
+      "count": 47,
+      "median": 26.0,
+      "min": 1.0,
+      "max": 60.0,
+      "high_or_worse": 0,
+      "reportable": true
+    }
+  ],
+  "states": [
+    {
+      "name": "Florida",
+      "count": 11,
+      "median": 65.0,
+      "min": 20.0,
+      "max": 71.0,
+      "high_or_worse": 2,
+      "reportable": true
+    },
+    {
+      "name": "Alabama",
+      "count": 38,
+      "median": 43.0,
+      "min": 17.0,
+      "max": 63.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Maryland",
+      "count": 8,
+      "median": 39.5,
+      "min": 23.0,
+      "max": 53.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Texas",
+      "count": 216,
+      "median": 39.0,
+      "min": 1.0,
+      "max": 71.0,
+      "high_or_worse": 2,
+      "reportable": true
+    },
+    {
+      "name": "Virginia",
+      "count": 48,
+      "median": 39.0,
+      "min": 5.0,
+      "max": 60.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Georgia",
+      "count": 11,
+      "median": 36.0,
+      "min": 26.0,
+      "max": 59.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Indiana",
+      "count": 43,
+      "median": 35.0,
+      "min": 9.0,
+      "max": 69.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "North Carolina",
+      "count": 90,
+      "median": 34.0,
+      "min": 4.0,
+      "max": 59.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "South Carolina",
+      "count": 44,
+      "median": 34.0,
+      "min": 17.0,
+      "max": 58.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Louisiana",
+      "count": 19,
+      "median": 34.0,
+      "min": 20.0,
+      "max": 68.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Mississippi",
+      "count": 27,
+      "median": 32.0,
+      "min": 3.0,
+      "max": 54.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Illinois",
+      "count": 38,
+      "median": 29.0,
+      "min": 2.0,
+      "max": 58.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Ohio",
+      "count": 72,
+      "median": 28.5,
+      "min": 3.0,
+      "max": 69.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Kentucky",
+      "count": 23,
+      "median": 28.0,
+      "min": 2.0,
+      "max": 62.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "New York",
+      "count": 12,
+      "median": 27.0,
+      "min": 7.0,
+      "max": 60.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Pennsylvania",
+      "count": 35,
+      "median": 26.0,
+      "min": 1.0,
+      "max": 44.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "West Virginia",
+      "count": 9,
+      "median": 18.0,
+      "min": 1.0,
+      "max": 36.0,
+      "high_or_worse": 0,
+      "reportable": true
+    }
+  ],
+  "cities": [
+    {
+      "city": "Jacksonville",
+      "state": "Florida",
+      "count": 7,
+      "median": 68.0,
+      "min": 65.0,
+      "max": 71.0,
+      "high_or_worse": 2,
+      "all_high": false,
+      "lat": 30.302,
+      "lon": -81.707,
+      "category_medians": {
+        "Theft": 71.0,
+        "Robbery": 72.0,
+        "Vehicle Theft": 65.0,
+        "Simple Assault": 70.0,
+        "Sex Offenses": 54.0,
+        "Vandalism": 65.0,
+        "Fraud": 65.0,
+        "Homicide": 71.0,
+        "Drug & Alcohol Violations": 69.0,
+        "Aggravated Assault": 74.0,
+        "Burglary": 67.0,
+        "Shoplifting": 58.0,
+        "Theft from Vehicle": 66.0
+      }
+    },
+    {
+      "city": "Houston",
+      "state": "Texas",
+      "count": 27,
+      "median": 61.0,
+      "min": 39.0,
+      "max": 71.0,
+      "high_or_worse": 2,
+      "all_high": false,
+      "lat": 29.788,
+      "lon": -95.466,
+      "category_medians": {
+        "Theft": 61.0,
+        "Robbery": 65.0,
+        "Vehicle Theft": 61.0,
+        "Simple Assault": 53.0,
+        "Sex Offenses": 58.0,
+        "Vandalism": 53.0,
+        "Fraud": 60.0,
+        "Homicide": 63.0,
+        "Drug & Alcohol Violations": 52.0,
+        "Aggravated Assault": 63.0,
+        "Burglary": 66.0,
+        "Shoplifting": 54.0,
+        "Theft from Vehicle": 63.0
+      }
+    },
+    {
+      "city": "San Antonio",
+      "state": "Texas",
+      "count": 15,
+      "median": 57.0,
+      "min": 52.0,
+      "max": 60.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 29.488,
+      "lon": -98.482,
+      "category_medians": {
+        "Theft": 60.0,
+        "Robbery": 58.0,
+        "Vehicle Theft": 60.0,
+        "Simple Assault": 58.0,
+        "Sex Offenses": 53.0,
+        "Vandalism": 65.0,
+        "Fraud": 55.0,
+        "Homicide": 54.0,
+        "Drug & Alcohol Violations": 62.0,
+        "Aggravated Assault": 48.0,
+        "Burglary": 62.0,
+        "Shoplifting": 56.0,
+        "Theft from Vehicle": 65.0
+      }
+    },
+    {
+      "city": "Austin",
+      "state": "Texas",
+      "count": 6,
+      "median": 55.5,
+      "min": 37.0,
+      "max": 57.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 30.258,
+      "lon": -97.759,
+      "category_medians": {
+        "Theft": 58.5,
+        "Robbery": 50.0,
+        "Vehicle Theft": 63.5,
+        "Simple Assault": 51.5,
+        "Sex Offenses": 46.0,
+        "Vandalism": 64.0,
+        "Fraud": 59.0,
+        "Homicide": 48.0,
+        "Drug & Alcohol Violations": 64.0,
+        "Aggravated Assault": 50.5,
+        "Burglary": 67.0,
+        "Shoplifting": 50.5,
+        "Theft from Vehicle": 66.0
+      }
+    },
+    {
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "count": 5,
+      "median": 54.0,
+      "min": 51.0,
+      "max": 56.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 35.199,
+      "lon": -80.776,
+      "category_medians": {
+        "Theft": 53.0,
+        "Robbery": 50.0,
+        "Vehicle Theft": 64.0,
+        "Simple Assault": 47.0,
+        "Sex Offenses": 39.0,
+        "Vandalism": 57.0,
+        "Fraud": 60.0,
+        "Homicide": 47.0,
+        "Drug & Alcohol Violations": 64.0,
+        "Aggravated Assault": 51.0,
+        "Burglary": 65.0,
+        "Shoplifting": 56.0,
+        "Theft from Vehicle": 65.0
+      }
+    },
+    {
+      "city": "Fort Worth",
+      "state": "Texas",
+      "count": 4,
+      "median": 48.0,
+      "min": 39.0,
+      "max": 54.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 32.825,
+      "lon": -97.281,
+      "category_medians": {
+        "Theft": 53.0,
+        "Robbery": 46.5,
+        "Vehicle Theft": 50.0,
+        "Simple Assault": 40.5,
+        "Sex Offenses": 41.0,
+        "Vandalism": 54.0,
+        "Fraud": 45.0,
+        "Homicide": 43.5,
+        "Drug & Alcohol Violations": 51.5,
+        "Aggravated Assault": 49.0,
+        "Burglary": 52.5,
+        "Shoplifting": 47.5,
+        "Theft from Vehicle": 53.0
+      }
+    },
+    {
+      "city": "Columbia",
+      "state": "South Carolina",
+      "count": 4,
+      "median": 46.0,
+      "min": 29.0,
+      "max": 58.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 34.048,
+      "lon": -80.945,
+      "category_medians": {
+        "Theft": 50.0,
+        "Robbery": 46.0,
+        "Vehicle Theft": 45.0,
+        "Simple Assault": 44.5,
+        "Sex Offenses": 39.5,
+        "Vandalism": 46.0,
+        "Fraud": 48.0,
+        "Homicide": 50.5,
+        "Drug & Alcohol Violations": 46.5,
+        "Aggravated Assault": 48.0,
+        "Burglary": 45.0,
+        "Shoplifting": 49.5,
+        "Theft from Vehicle": 45.0
+      }
+    },
+    {
+      "city": "Spring",
+      "state": "Texas",
+      "count": 8,
+      "median": 44.5,
+      "min": 41.0,
+      "max": 49.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 30.076,
+      "lon": -95.457,
+      "category_medians": {
+        "Theft": 38.5,
+        "Robbery": 56.0,
+        "Vehicle Theft": 44.5,
+        "Simple Assault": 25.5,
+        "Sex Offenses": 61.5,
+        "Vandalism": 47.0,
+        "Fraud": 46.5,
+        "Homicide": null,
+        "Drug & Alcohol Violations": 49.0,
+        "Aggravated Assault": 35.0,
+        "Burglary": 48.0,
+        "Shoplifting": 44.0,
+        "Theft from Vehicle": 46.5
+      }
+    },
+    {
+      "city": "Conroe",
+      "state": "Texas",
+      "count": 8,
+      "median": 42.5,
+      "min": 34.0,
+      "max": 45.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 30.316,
+      "lon": -95.463,
+      "category_medians": {
+        "Theft": 40.5,
+        "Robbery": 33.0,
+        "Vehicle Theft": 46.0,
+        "Simple Assault": 49.5,
+        "Sex Offenses": 43.5,
+        "Vandalism": 45.5,
+        "Fraud": 48.5,
+        "Homicide": 35.0,
+        "Drug & Alcohol Violations": 59.5,
+        "Aggravated Assault": 35.5,
+        "Burglary": 47.0,
+        "Shoplifting": 51.5,
+        "Theft from Vehicle": 45.0
+      }
+    },
+    {
+      "city": "Humble",
+      "state": "Texas",
+      "count": 6,
+      "median": 41.0,
+      "min": 27.0,
+      "max": 47.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 29.997,
+      "lon": -95.192,
+      "category_medians": {
+        "Theft": 35.0,
+        "Robbery": 44.0,
+        "Vehicle Theft": 37.0,
+        "Simple Assault": 29.0,
+        "Sex Offenses": 39.5,
+        "Vandalism": 34.5,
+        "Fraud": 31.0,
+        "Homicide": 51.0,
+        "Drug & Alcohol Violations": 36.0,
+        "Aggravated Assault": 38.0,
+        "Burglary": 38.5,
+        "Shoplifting": 37.0,
+        "Theft from Vehicle": 49.0
+      }
+    },
+    {
+      "city": "The Woodlands",
+      "state": "Texas",
+      "count": 9,
+      "median": 39.0,
+      "min": 32.0,
+      "max": 40.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 30.178,
+      "lon": -95.46,
+      "category_medians": {
+        "Theft": 46.0,
+        "Robbery": 34.0,
+        "Vehicle Theft": 41.0,
+        "Simple Assault": 29.0,
+        "Sex Offenses": 42.0,
+        "Vandalism": 45.0,
+        "Fraud": 40.0,
+        "Homicide": 44.5,
+        "Drug & Alcohol Violations": 45.0,
+        "Aggravated Assault": 28.0,
+        "Burglary": 41.0,
+        "Shoplifting": 43.0,
+        "Theft from Vehicle": 39.0
+      }
+    },
+    {
+      "city": "Katy",
+      "state": "Texas",
+      "count": 6,
+      "median": 35.5,
+      "min": 31.0,
+      "max": 49.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 29.804,
+      "lon": -95.759,
+      "category_medians": {
+        "Theft": 40.5,
+        "Robbery": 37.5,
+        "Vehicle Theft": 39.5,
+        "Simple Assault": 26.5,
+        "Sex Offenses": 36.5,
+        "Vandalism": 31.5,
+        "Fraud": 31.0,
+        "Homicide": 47.0,
+        "Drug & Alcohol Violations": 31.0,
+        "Aggravated Assault": 29.0,
+        "Burglary": 35.5,
+        "Shoplifting": 28.5,
+        "Theft from Vehicle": 43.0
+      }
+    },
+    {
+      "city": "Magnolia",
+      "state": "Texas",
+      "count": 5,
+      "median": 35.0,
+      "min": 24.0,
+      "max": 35.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 30.221,
+      "lon": -95.57,
+      "category_medians": {
+        "Theft": 34.0,
+        "Robbery": 40.0,
+        "Vehicle Theft": 34.0,
+        "Simple Assault": 27.0,
+        "Sex Offenses": 34.0,
+        "Vandalism": 34.0,
+        "Fraud": 34.0,
+        "Homicide": 70.0,
+        "Drug & Alcohol Violations": 41.0,
+        "Aggravated Assault": 25.0,
+        "Burglary": 36.0,
+        "Shoplifting": 30.0,
+        "Theft from Vehicle": 34.0
+      }
+    },
+    {
+      "city": "Tomball",
+      "state": "Texas",
+      "count": 6,
+      "median": 25.5,
+      "min": 23.0,
+      "max": 34.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 30.089,
+      "lon": -95.61,
+      "category_medians": {
+        "Theft": 35.0,
+        "Robbery": 23.0,
+        "Vehicle Theft": 27.5,
+        "Simple Assault": 21.5,
+        "Sex Offenses": 26.0,
+        "Vandalism": 22.0,
+        "Fraud": 21.5,
+        "Homicide": 23.0,
+        "Drug & Alcohol Violations": 25.5,
+        "Aggravated Assault": 23.0,
+        "Burglary": 24.5,
+        "Shoplifting": 31.0,
+        "Theft from Vehicle": 25.0
+      }
+    }
+  ],
+  "largest_market": {
+    "city": "Houston",
+    "state": "Texas",
+    "count": 27,
+    "median": 61.0,
+    "min": 39.0,
+    "max": 71.0,
+    "high_or_worse": 2,
+    "all_high": false,
+    "lat": 29.788,
+    "lon": -95.466,
+    "category_medians": {
+      "Theft": 61.0,
+      "Robbery": 65.0,
+      "Vehicle Theft": 61.0,
+      "Simple Assault": 53.0,
+      "Sex Offenses": 58.0,
+      "Vandalism": 53.0,
+      "Fraud": 60.0,
+      "Homicide": 63.0,
+      "Drug & Alcohol Violations": 52.0,
+      "Aggravated Assault": 63.0,
+      "Burglary": 66.0,
+      "Shoplifting": 54.0,
+      "Theft from Vehicle": 63.0
+    }
+  },
+  "category_medians": {
+    "Theft": 38.0,
+    "Robbery": 30.0,
+    "Vehicle Theft": 34.0,
+    "Simple Assault": 35.0,
+    "Sex Offenses": 33.0,
+    "Vandalism": 37.0,
+    "Fraud": 36.0,
+    "Homicide": 30.0,
+    "Drug & Alcohol Violations": 40.0,
+    "Aggravated Assault": 32.0,
+    "Burglary": 38.0,
+    "Shoplifting": 38.0,
+    "Theft from Vehicle": 37.0
+  },
+  "cluster_finding": {
+    "markets": [],
+    "total": 0
+  },
+  "gap_finding": {
+    "sites": 38,
+    "by_category": [
+      [
+        "Aggravated Assault",
+        19
+      ],
+      [
+        "Robbery",
+        17
+      ],
+      [
+        "Burglary",
+        15
+      ],
+      [
+        "Homicide",
+        13
+      ],
+      [
+        "Theft from Vehicle",
+        11
+      ],
+      [
+        "Vehicle Theft",
+        6
+      ],
+      [
+        "Theft",
+        6
+      ],
+      [
+        "Simple Assault",
+        5
+      ],
+      [
+        "Drug & Alcohol Violations",
+        4
+      ],
+      [
+        "Sex Offenses",
+        2
+      ],
+      [
+        "Vandalism",
+        1
+      ]
+    ],
+    "representative": {
+      "city": "Houston",
+      "state": "Texas",
+      "overall": 63.0,
+      "tier": "Medium",
+      "category": "Burglary",
+      "category_score": 70.0,
+      "spread": 7.0
+    }
+  },
+  "category_gaps": [
+    {
+      "city": "Magnolia",
+      "state": "Texas",
+      "overall": 35.0,
+      "overall_tier": "Low",
+      "category": "Homicide",
+      "category_score": 70.0,
+      "category_tier": "High",
+      "tier_jump": 2
+    },
+    {
+      "city": "Magnolia",
+      "state": "Texas",
+      "overall": 35.0,
+      "overall_tier": "Low",
+      "category": "Homicide",
+      "category_score": 70.0,
+      "category_tier": "High",
+      "tier_jump": 2
+    },
+    {
+      "city": "Magnolia",
+      "state": "Texas",
+      "overall": 35.0,
+      "overall_tier": "Low",
+      "category": "Homicide",
+      "category_score": 70.0,
+      "category_tier": "High",
+      "tier_jump": 2
+    },
+    {
+      "city": "Tomball",
+      "state": "Texas",
+      "overall": 27.0,
+      "overall_tier": "Very Low",
+      "category": "Homicide",
+      "category_score": 53.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Tomball",
+      "state": "Texas",
+      "overall": 27.0,
+      "overall_tier": "Very Low",
+      "category": "Homicide",
+      "category_score": 53.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Magnolia",
+      "state": "Texas",
+      "overall": 24.0,
+      "overall_tier": "Very Low",
+      "category": "Homicide",
+      "category_score": 53.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Sugar Land",
+      "state": "Texas",
+      "overall": 27.0,
+      "overall_tier": "Very Low",
+      "category": "Shoplifting",
+      "category_score": 52.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Montgomery",
+      "state": "Texas",
+      "overall": 28.0,
+      "overall_tier": "Very Low",
+      "category": "Homicide",
+      "category_score": 52.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Hamburg",
+      "state": "New York",
+      "overall": 25.0,
+      "overall_tier": "Very Low",
+      "category": "Theft",
+      "category_score": 51.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Greenville",
+      "state": "South Carolina",
+      "overall": 27.0,
+      "overall_tier": "Very Low",
+      "category": "Drug & Alcohol Violations",
+      "category_score": 51.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Homicide",
+      "category_score": 81.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 76.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Montgomery",
+      "state": "Alabama",
+      "overall": 63.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 76.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Vehicle Theft",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Florida",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Florida",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Cleveland",
+      "state": "Ohio",
+      "overall": 69.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Florida",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Houston",
+      "state": "Texas",
+      "overall": 69.0,
+      "overall_tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Houston",
+      "state": "Texas",
+      "overall": 69.0,
+      "overall_tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "overall": 69.0,
+      "overall_tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Simple Assault",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Houston",
+      "state": "Texas",
+      "overall": 69.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Houston",
+      "state": "Texas",
+      "overall": 69.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Montgomery",
+      "state": "Alabama",
+      "overall": 61.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Houston",
+      "state": "Texas",
+      "overall": 69.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Sex Offenses",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Houston",
+      "state": "Texas",
+      "overall": 67.0,
+      "overall_tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Cleveland",
+      "state": "Ohio",
+      "overall": 69.0,
+      "overall_tier": "Medium",
+      "category": "Vehicle Theft",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Florida",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Homicide",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Houston",
+      "state": "Texas",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "overall": 69.0,
+      "overall_tier": "Medium",
+      "category": "Homicide",
+      "category_score": 72.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "overall": 69.0,
+      "overall_tier": "Medium",
+      "category": "Theft from Vehicle",
+      "category_score": 72.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Theft from Vehicle",
+      "category_score": 72.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Houston",
+      "state": "Texas",
+      "overall": 67.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 72.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Florida",
+      "overall": 65.0,
+      "overall_tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 72.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Florida",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Theft",
+      "category_score": 72.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Florida",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Drug & Alcohol Violations",
+      "category_score": 72.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    }
+  ],
+  "outlier_flags": [],
+  "sample_rows": [
+    {
+      "city": "Houston",
+      "state": "Texas",
+      "count": 27,
+      "median": 61.0,
+      "min": 39.0,
+      "max": 71.0,
+      "high_or_worse": 2,
+      "all_high": false,
+      "lat": 29.788,
+      "lon": -95.466,
+      "category_medians": {
+        "Theft": 61.0,
+        "Robbery": 65.0,
+        "Vehicle Theft": 61.0,
+        "Simple Assault": 53.0,
+        "Sex Offenses": 58.0,
+        "Vandalism": 53.0,
+        "Fraud": 60.0,
+        "Homicide": 63.0,
+        "Drug & Alcohol Violations": 52.0,
+        "Aggravated Assault": 63.0,
+        "Burglary": 66.0,
+        "Shoplifting": 54.0,
+        "Theft from Vehicle": 63.0
+      }
+    },
+    {
+      "city": "The Woodlands",
+      "state": "Texas",
+      "count": 9,
+      "median": 39.0,
+      "min": 32.0,
+      "max": 40.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 30.178,
+      "lon": -95.46,
+      "category_medians": {
+        "Theft": 46.0,
+        "Robbery": 34.0,
+        "Vehicle Theft": 41.0,
+        "Simple Assault": 29.0,
+        "Sex Offenses": 42.0,
+        "Vandalism": 45.0,
+        "Fraud": 40.0,
+        "Homicide": 44.5,
+        "Drug & Alcohol Violations": 45.0,
+        "Aggravated Assault": 28.0,
+        "Burglary": 41.0,
+        "Shoplifting": 43.0,
+        "Theft from Vehicle": 39.0
+      }
+    },
+    {
+      "city": "Tomball",
+      "state": "Texas",
+      "count": 6,
+      "median": 25.5,
+      "min": 23.0,
+      "max": 34.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 30.089,
+      "lon": -95.61,
+      "category_medians": {
+        "Theft": 35.0,
+        "Robbery": 23.0,
+        "Vehicle Theft": 27.5,
+        "Simple Assault": 21.5,
+        "Sex Offenses": 26.0,
+        "Vandalism": 22.0,
+        "Fraud": 21.5,
+        "Homicide": 23.0,
+        "Drug & Alcohol Violations": 25.5,
+        "Aggravated Assault": 23.0,
+        "Burglary": 24.5,
+        "Shoplifting": 31.0,
+        "Theft from Vehicle": 25.0
+      }
+    }
+  ],
+  "quarantine_sample": [],
+  "critical_present": false
+}

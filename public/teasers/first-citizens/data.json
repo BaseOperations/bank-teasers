@@ -1,0 +1,1203 @@
+{
+  "company": "First Citizens Bank and Trust",
+  "company_legal": "First-Citizens Bank & Trust Company",
+  "source_file": "First Citizens Bank & Trust.xlsx",
+  "has_quarter_mile": true,
+  "missing_categories": [],
+  "counts": {
+    "submitted": 516,
+    "scored": 515,
+    "unscored": 0,
+    "quarantined_international": 1,
+    "states": 23,
+    "regions": 4,
+    "markets": 12,
+    "sites_in_markets": 78
+  },
+  "median_overall": 35.0,
+  "median_tier": "Low",
+  "min_overall": 1.0,
+  "max_overall": 71.0,
+  "high_count": 3,
+  "critical_count": 0,
+  "tiers": [
+    {
+      "name": "Very Low",
+      "min": 0,
+      "max": 30,
+      "count": 165,
+      "pct": 32.0
+    },
+    {
+      "name": "Low",
+      "min": 30,
+      "max": 50,
+      "count": 248,
+      "pct": 48.2
+    },
+    {
+      "name": "Medium",
+      "min": 50,
+      "max": 70,
+      "count": 99,
+      "pct": 19.2
+    },
+    {
+      "name": "High",
+      "min": 70,
+      "max": 90,
+      "count": 3,
+      "pct": 0.6
+    },
+    {
+      "name": "Critical",
+      "min": 90,
+      "max": 100,
+      "count": 0,
+      "pct": 0.0
+    }
+  ],
+  "regions": [
+    {
+      "name": "Northeast",
+      "count": 5,
+      "median": 53.0,
+      "min": 18.0,
+      "max": 56.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Midwest",
+      "count": 12,
+      "median": 43.0,
+      "min": 18.0,
+      "max": 70.0,
+      "high_or_worse": 1,
+      "reportable": true
+    },
+    {
+      "name": "West",
+      "count": 78,
+      "median": 39.0,
+      "min": 1.0,
+      "max": 64.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "South",
+      "count": 420,
+      "median": 34.0,
+      "min": 1.0,
+      "max": 71.0,
+      "high_or_worse": 2,
+      "reportable": true
+    }
+  ],
+  "states": [
+    {
+      "name": "Missouri",
+      "count": 1,
+      "median": 70.0,
+      "min": 70.0,
+      "max": 70.0,
+      "high_or_worse": 1,
+      "reportable": false
+    },
+    {
+      "name": "New Mexico",
+      "count": 2,
+      "median": 56.0,
+      "min": 49.0,
+      "max": 63.0,
+      "high_or_worse": 0,
+      "reportable": false
+    },
+    {
+      "name": "Hawaii",
+      "count": 1,
+      "median": 56.0,
+      "min": 56.0,
+      "max": 56.0,
+      "high_or_worse": 0,
+      "reportable": false
+    },
+    {
+      "name": "Massachusetts",
+      "count": 5,
+      "median": 53.0,
+      "min": 18.0,
+      "max": 56.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Oklahoma",
+      "count": 2,
+      "median": 50.5,
+      "min": 40.0,
+      "max": 61.0,
+      "high_or_worse": 0,
+      "reportable": false
+    },
+    {
+      "name": "Nebraska",
+      "count": 3,
+      "median": 49.0,
+      "min": 47.0,
+      "max": 58.0,
+      "high_or_worse": 0,
+      "reportable": false
+    },
+    {
+      "name": "Nevada",
+      "count": 4,
+      "median": 45.0,
+      "min": 1.0,
+      "max": 60.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Colorado",
+      "count": 5,
+      "median": 43.0,
+      "min": 30.0,
+      "max": 56.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Florida",
+      "count": 27,
+      "median": 41.0,
+      "min": 12.0,
+      "max": 71.0,
+      "high_or_worse": 1,
+      "reportable": true
+    },
+    {
+      "name": "Washington",
+      "count": 7,
+      "median": 41.0,
+      "min": 28.0,
+      "max": 64.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Tennessee",
+      "count": 6,
+      "median": 40.0,
+      "min": 32.0,
+      "max": 70.0,
+      "high_or_worse": 1,
+      "reportable": true
+    },
+    {
+      "name": "Kansas",
+      "count": 1,
+      "median": 39.0,
+      "min": 39.0,
+      "max": 39.0,
+      "high_or_worse": 0,
+      "reportable": false
+    },
+    {
+      "name": "Maryland",
+      "count": 2,
+      "median": 39.0,
+      "min": 36.0,
+      "max": 42.0,
+      "high_or_worse": 0,
+      "reportable": false
+    },
+    {
+      "name": "California",
+      "count": 52,
+      "median": 38.5,
+      "min": 19.0,
+      "max": 64.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Virginia",
+      "count": 36,
+      "median": 37.0,
+      "min": 6.0,
+      "max": 60.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Texas",
+      "count": 9,
+      "median": 35.0,
+      "min": 27.0,
+      "max": 68.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Arizona",
+      "count": 5,
+      "median": 34.0,
+      "min": 29.0,
+      "max": 45.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Georgia",
+      "count": 26,
+      "median": 33.0,
+      "min": 4.0,
+      "max": 63.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "North Carolina",
+      "count": 195,
+      "median": 33.0,
+      "min": 1.0,
+      "max": 62.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "South Carolina",
+      "count": 113,
+      "median": 31.0,
+      "min": 4.0,
+      "max": 62.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Oregon",
+      "count": 2,
+      "median": 31.0,
+      "min": 25.0,
+      "max": 37.0,
+      "high_or_worse": 0,
+      "reportable": false
+    },
+    {
+      "name": "Wisconsin",
+      "count": 7,
+      "median": 24.0,
+      "min": 18.0,
+      "max": 64.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "West Virginia",
+      "count": 4,
+      "median": 8.5,
+      "min": 1.0,
+      "max": 22.0,
+      "high_or_worse": 0,
+      "reportable": true
+    }
+  ],
+  "cities": [
+    {
+      "city": "Fayetteville",
+      "state": "North Carolina",
+      "count": 4,
+      "median": 59.0,
+      "min": 56.0,
+      "max": 59.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 35.061,
+      "lon": -78.915,
+      "category_medians": {
+        "Theft": 60.5,
+        "Robbery": 56.0,
+        "Vehicle Theft": 58.0,
+        "Simple Assault": 55.0,
+        "Sex Offenses": 50.5,
+        "Vandalism": 64.0,
+        "Fraud": 61.0,
+        "Homicide": 53.5,
+        "Drug & Alcohol Violations": 63.5,
+        "Aggravated Assault": 59.5,
+        "Burglary": 65.0,
+        "Shoplifting": 60.5,
+        "Theft from Vehicle": 64.0
+      }
+    },
+    {
+      "city": "Los Angeles",
+      "state": "California",
+      "count": 4,
+      "median": 58.0,
+      "min": 52.0,
+      "max": 62.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 33.992,
+      "lon": -118.37,
+      "category_medians": {
+        "Theft": 57.5,
+        "Robbery": 60.5,
+        "Vehicle Theft": 62.5,
+        "Simple Assault": 48.0,
+        "Sex Offenses": 53.0,
+        "Vandalism": 55.0,
+        "Fraud": 56.5,
+        "Homicide": 57.5,
+        "Drug & Alcohol Violations": 46.5,
+        "Aggravated Assault": 53.5,
+        "Burglary": 67.0,
+        "Shoplifting": 56.5,
+        "Theft from Vehicle": 62.5
+      }
+    },
+    {
+      "city": "Greensboro",
+      "state": "North Carolina",
+      "count": 6,
+      "median": 56.0,
+      "min": 50.0,
+      "max": 58.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 36.088,
+      "lon": -79.82,
+      "category_medians": {
+        "Theft": 63.5,
+        "Robbery": 58.5,
+        "Vehicle Theft": 60.0,
+        "Simple Assault": 54.5,
+        "Sex Offenses": 39.5,
+        "Vandalism": 53.5,
+        "Fraud": 57.5,
+        "Homicide": 51.0,
+        "Drug & Alcohol Violations": 54.5,
+        "Aggravated Assault": 56.5,
+        "Burglary": 63.0,
+        "Shoplifting": 55.5,
+        "Theft from Vehicle": 57.5
+      }
+    },
+    {
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "count": 15,
+      "median": 55.0,
+      "min": 28.0,
+      "max": 62.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 35.173,
+      "lon": -80.83,
+      "category_medians": {
+        "Theft": 60.0,
+        "Robbery": 55.0,
+        "Vehicle Theft": 57.0,
+        "Simple Assault": 52.0,
+        "Sex Offenses": 45.0,
+        "Vandalism": 52.0,
+        "Fraud": 57.0,
+        "Homicide": 51.0,
+        "Drug & Alcohol Violations": 58.0,
+        "Aggravated Assault": 42.0,
+        "Burglary": 56.0,
+        "Shoplifting": 56.0,
+        "Theft from Vehicle": 63.0
+      }
+    },
+    {
+      "city": "Winston Salem",
+      "state": "North Carolina",
+      "count": 4,
+      "median": 52.0,
+      "min": 47.0,
+      "max": 58.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 36.132,
+      "lon": -80.291,
+      "category_medians": {
+        "Theft": 56.0,
+        "Robbery": 46.0,
+        "Vehicle Theft": 51.5,
+        "Simple Assault": 54.5,
+        "Sex Offenses": 41.0,
+        "Vandalism": 55.0,
+        "Fraud": 57.5,
+        "Homicide": 48.0,
+        "Drug & Alcohol Violations": 56.0,
+        "Aggravated Assault": 56.0,
+        "Burglary": 59.0,
+        "Shoplifting": 52.5,
+        "Theft from Vehicle": 61.0
+      }
+    },
+    {
+      "city": "Durham",
+      "state": "North Carolina",
+      "count": 4,
+      "median": 51.5,
+      "min": 32.0,
+      "max": 59.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 35.96,
+      "lon": -78.918,
+      "category_medians": {
+        "Theft": 44.0,
+        "Robbery": 57.0,
+        "Vehicle Theft": 52.5,
+        "Simple Assault": 41.5,
+        "Sex Offenses": 53.5,
+        "Vandalism": 47.5,
+        "Fraud": 51.5,
+        "Homicide": 55.0,
+        "Drug & Alcohol Violations": 41.0,
+        "Aggravated Assault": 46.5,
+        "Burglary": 49.0,
+        "Shoplifting": 53.0,
+        "Theft from Vehicle": 57.0
+      }
+    },
+    {
+      "city": "Columbia",
+      "state": "South Carolina",
+      "count": 8,
+      "median": 50.5,
+      "min": 22.0,
+      "max": 62.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 34.011,
+      "lon": -80.962,
+      "category_medians": {
+        "Theft": 50.0,
+        "Robbery": 50.0,
+        "Vehicle Theft": 49.0,
+        "Simple Assault": 49.5,
+        "Sex Offenses": 46.5,
+        "Vandalism": 51.5,
+        "Fraud": 45.0,
+        "Homicide": 49.5,
+        "Drug & Alcohol Violations": 46.0,
+        "Aggravated Assault": 48.5,
+        "Burglary": 52.5,
+        "Shoplifting": 57.0,
+        "Theft from Vehicle": 49.5
+      }
+    },
+    {
+      "city": "Raleigh",
+      "state": "North Carolina",
+      "count": 10,
+      "median": 48.5,
+      "min": 45.0,
+      "max": 57.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 35.845,
+      "lon": -78.64,
+      "category_medians": {
+        "Theft": 55.0,
+        "Robbery": 48.5,
+        "Vehicle Theft": 55.0,
+        "Simple Assault": 47.5,
+        "Sex Offenses": 45.0,
+        "Vandalism": 47.0,
+        "Fraud": 56.5,
+        "Homicide": 44.0,
+        "Drug & Alcohol Violations": 57.0,
+        "Aggravated Assault": 44.0,
+        "Burglary": 53.5,
+        "Shoplifting": 53.5,
+        "Theft from Vehicle": 62.0
+      }
+    },
+    {
+      "city": "Asheville",
+      "state": "North Carolina",
+      "count": 7,
+      "median": 48.0,
+      "min": 38.0,
+      "max": 53.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 35.587,
+      "lon": -82.554,
+      "category_medians": {
+        "Theft": 53.0,
+        "Robbery": 43.0,
+        "Vehicle Theft": 47.0,
+        "Simple Assault": 45.0,
+        "Sex Offenses": 41.0,
+        "Vandalism": 53.0,
+        "Fraud": 48.0,
+        "Homicide": 42.0,
+        "Drug & Alcohol Violations": 50.0,
+        "Aggravated Assault": 46.0,
+        "Burglary": 54.0,
+        "Shoplifting": 54.0,
+        "Theft from Vehicle": 50.0
+      }
+    },
+    {
+      "city": "Wilmington",
+      "state": "North Carolina",
+      "count": 6,
+      "median": 47.0,
+      "min": 34.0,
+      "max": 52.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 34.227,
+      "lon": -77.885,
+      "category_medians": {
+        "Theft": 51.0,
+        "Robbery": 43.0,
+        "Vehicle Theft": 48.5,
+        "Simple Assault": 44.5,
+        "Sex Offenses": 40.0,
+        "Vandalism": 50.5,
+        "Fraud": 55.5,
+        "Homicide": 40.5,
+        "Drug & Alcohol Violations": 54.0,
+        "Aggravated Assault": 43.0,
+        "Burglary": 53.5,
+        "Shoplifting": 52.5,
+        "Theft from Vehicle": 58.0
+      }
+    },
+    {
+      "city": "Greenville",
+      "state": "South Carolina",
+      "count": 5,
+      "median": 46.0,
+      "min": 36.0,
+      "max": 48.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 34.85,
+      "lon": -82.393,
+      "category_medians": {
+        "Theft": 45.0,
+        "Robbery": 36.0,
+        "Vehicle Theft": 47.0,
+        "Simple Assault": 43.0,
+        "Sex Offenses": 35.0,
+        "Vandalism": 42.0,
+        "Fraud": 48.0,
+        "Homicide": 44.0,
+        "Drug & Alcohol Violations": 53.0,
+        "Aggravated Assault": 43.0,
+        "Burglary": 50.0,
+        "Shoplifting": 50.0,
+        "Theft from Vehicle": 52.0
+      }
+    },
+    {
+      "city": "Charleston",
+      "state": "South Carolina",
+      "count": 5,
+      "median": 42.0,
+      "min": 41.0,
+      "max": 54.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 32.78,
+      "lon": -79.931,
+      "category_medians": {
+        "Theft": 52.0,
+        "Robbery": 30.5,
+        "Vehicle Theft": 45.0,
+        "Simple Assault": 42.0,
+        "Sex Offenses": 33.5,
+        "Vandalism": 48.0,
+        "Fraud": 46.0,
+        "Homicide": 35.0,
+        "Drug & Alcohol Violations": 59.0,
+        "Aggravated Assault": 39.0,
+        "Burglary": 46.0,
+        "Shoplifting": 47.0,
+        "Theft from Vehicle": 51.0
+      }
+    }
+  ],
+  "largest_market": {
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "count": 15,
+    "median": 55.0,
+    "min": 28.0,
+    "max": 62.0,
+    "high_or_worse": 0,
+    "all_high": false,
+    "lat": 35.173,
+    "lon": -80.83,
+    "category_medians": {
+      "Theft": 60.0,
+      "Robbery": 55.0,
+      "Vehicle Theft": 57.0,
+      "Simple Assault": 52.0,
+      "Sex Offenses": 45.0,
+      "Vandalism": 52.0,
+      "Fraud": 57.0,
+      "Homicide": 51.0,
+      "Drug & Alcohol Violations": 58.0,
+      "Aggravated Assault": 42.0,
+      "Burglary": 56.0,
+      "Shoplifting": 56.0,
+      "Theft from Vehicle": 63.0
+    }
+  },
+  "category_medians": {
+    "Theft": 38.0,
+    "Robbery": 31.0,
+    "Vehicle Theft": 35.0,
+    "Simple Assault": 34.0,
+    "Sex Offenses": 30.0,
+    "Vandalism": 39.0,
+    "Fraud": 38.0,
+    "Homicide": 32.0,
+    "Drug & Alcohol Violations": 41.0,
+    "Aggravated Assault": 33.0,
+    "Burglary": 38.0,
+    "Shoplifting": 38.5,
+    "Theft from Vehicle": 40.0
+  },
+  "cluster_finding": {
+    "markets": [],
+    "total": 0
+  },
+  "gap_finding": {
+    "sites": 13,
+    "by_category": [
+      [
+        "Burglary",
+        7
+      ],
+      [
+        "Robbery",
+        6
+      ],
+      [
+        "Theft from Vehicle",
+        5
+      ],
+      [
+        "Aggravated Assault",
+        4
+      ],
+      [
+        "Drug & Alcohol Violations",
+        2
+      ],
+      [
+        "Homicide",
+        2
+      ],
+      [
+        "Fraud",
+        2
+      ],
+      [
+        "Sex Offenses",
+        1
+      ],
+      [
+        "Vehicle Theft",
+        1
+      ],
+      [
+        "Theft",
+        1
+      ]
+    ],
+    "representative": {
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "overall": 62.0,
+      "tier": "Medium",
+      "category": "Burglary",
+      "category_score": 71.0,
+      "spread": 9.0
+    }
+  },
+  "category_gaps": [
+    {
+      "city": "Milwaukee",
+      "state": "Wisconsin",
+      "overall": 18.0,
+      "overall_tier": "Very Low",
+      "category": "Homicide",
+      "category_score": 65.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Sugar Land",
+      "state": "Texas",
+      "overall": 27.0,
+      "overall_tier": "Very Low",
+      "category": "Shoplifting",
+      "category_score": 52.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Irmo",
+      "state": "South Carolina",
+      "overall": 20.0,
+      "overall_tier": "Very Low",
+      "category": "Homicide",
+      "category_score": 51.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Cedar Park",
+      "state": "Texas",
+      "overall": 29.0,
+      "overall_tier": "Very Low",
+      "category": "Drug & Alcohol Violations",
+      "category_score": 50.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Milwaukee",
+      "state": "Wisconsin",
+      "overall": 64.0,
+      "overall_tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 76.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Lakewood Ranch",
+      "state": "Florida",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 76.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Savannah",
+      "state": "Georgia",
+      "overall": 61.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Tacoma",
+      "state": "Washington",
+      "overall": 64.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Lakewood Ranch",
+      "state": "Florida",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Theft",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Houston",
+      "state": "Texas",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Tacoma",
+      "state": "Washington",
+      "overall": 64.0,
+      "overall_tier": "Medium",
+      "category": "Vehicle Theft",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Florida",
+      "overall": 65.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Atlanta",
+      "state": "Georgia",
+      "overall": 63.0,
+      "overall_tier": "Medium",
+      "category": "Homicide",
+      "category_score": 72.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "overall": 62.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 71.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "overall": 62.0,
+      "overall_tier": "Medium",
+      "category": "Theft from Vehicle",
+      "category_score": 71.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Long Beach",
+      "state": "California",
+      "overall": 61.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 71.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Long Beach",
+      "state": "California",
+      "overall": 61.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 71.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Houston",
+      "state": "Texas",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 71.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Tacoma",
+      "state": "Washington",
+      "overall": 64.0,
+      "overall_tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 71.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Lakewood Ranch",
+      "state": "Florida",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Fraud",
+      "category_score": 71.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "San Francisco",
+      "state": "California",
+      "overall": 64.0,
+      "overall_tier": "Medium",
+      "category": "Theft from Vehicle",
+      "category_score": 71.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "overall": 62.0,
+      "overall_tier": "Medium",
+      "category": "Drug & Alcohol Violations",
+      "category_score": 70.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "overall": 56.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 70.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Atlanta",
+      "state": "Georgia",
+      "overall": 63.0,
+      "overall_tier": "Medium",
+      "category": "Theft from Vehicle",
+      "category_score": 70.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "overall": 63.0,
+      "overall_tier": "Medium",
+      "category": "Drug & Alcohol Violations",
+      "category_score": 70.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Houston",
+      "state": "Texas",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 70.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Houston",
+      "state": "Texas",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Fraud",
+      "category_score": 70.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Fayetteville",
+      "state": "North Carolina",
+      "overall": 59.0,
+      "overall_tier": "Medium",
+      "category": "Theft from Vehicle",
+      "category_score": 70.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Savannah",
+      "state": "Georgia",
+      "overall": 61.0,
+      "overall_tier": "Medium",
+      "category": "Sex Offenses",
+      "category_score": 70.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Milwaukee",
+      "state": "Wisconsin",
+      "overall": 64.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 70.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Lakewood Ranch",
+      "state": "Florida",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Homicide",
+      "category_score": 70.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Lakewood Ranch",
+      "state": "Florida",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 70.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Lakewood Ranch",
+      "state": "Florida",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Theft from Vehicle",
+      "category_score": 70.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "San Francisco",
+      "state": "California",
+      "overall": 64.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 70.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "San Francisco",
+      "state": "California",
+      "overall": 64.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 70.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Tucson",
+      "state": "Arizona",
+      "overall": 35.0,
+      "overall_tier": "Low",
+      "category": "Homicide",
+      "category_score": 69.0,
+      "category_tier": "Medium",
+      "tier_jump": 1
+    },
+    {
+      "city": "Martinez",
+      "state": "Georgia",
+      "overall": 39.0,
+      "overall_tier": "Low",
+      "category": "Theft from Vehicle",
+      "category_score": 67.0,
+      "category_tier": "Medium",
+      "tier_jump": 1
+    },
+    {
+      "city": "Greenville",
+      "state": "South Carolina",
+      "overall": 46.0,
+      "overall_tier": "Low",
+      "category": "Drug & Alcohol Violations",
+      "category_score": 67.0,
+      "category_tier": "Medium",
+      "tier_jump": 1
+    },
+    {
+      "city": "Spartanburg",
+      "state": "South Carolina",
+      "overall": 49.0,
+      "overall_tier": "Low",
+      "category": "Theft from Vehicle",
+      "category_score": 66.0,
+      "category_tier": "Medium",
+      "tier_jump": 1
+    },
+    {
+      "city": "Danville",
+      "state": "Virginia",
+      "overall": 42.0,
+      "overall_tier": "Low",
+      "category": "Simple Assault",
+      "category_score": 65.0,
+      "category_tier": "Medium",
+      "tier_jump": 1
+    }
+  ],
+  "outlier_flags": [
+    {
+      "why": "1 international/stateless row(s) quarantined: coordinates resolve to same-named US towns and their scores are not the real locations",
+      "examples": [
+        ""
+      ]
+    }
+  ],
+  "sample_rows": [
+    {
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "count": 15,
+      "median": 55.0,
+      "min": 28.0,
+      "max": 62.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 35.173,
+      "lon": -80.83,
+      "category_medians": {
+        "Theft": 60.0,
+        "Robbery": 55.0,
+        "Vehicle Theft": 57.0,
+        "Simple Assault": 52.0,
+        "Sex Offenses": 45.0,
+        "Vandalism": 52.0,
+        "Fraud": 57.0,
+        "Homicide": 51.0,
+        "Drug & Alcohol Violations": 58.0,
+        "Aggravated Assault": 42.0,
+        "Burglary": 56.0,
+        "Shoplifting": 56.0,
+        "Theft from Vehicle": 63.0
+      }
+    },
+    {
+      "city": "Raleigh",
+      "state": "North Carolina",
+      "count": 10,
+      "median": 48.5,
+      "min": 45.0,
+      "max": 57.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 35.845,
+      "lon": -78.64,
+      "category_medians": {
+        "Theft": 55.0,
+        "Robbery": 48.5,
+        "Vehicle Theft": 55.0,
+        "Simple Assault": 47.5,
+        "Sex Offenses": 45.0,
+        "Vandalism": 47.0,
+        "Fraud": 56.5,
+        "Homicide": 44.0,
+        "Drug & Alcohol Violations": 57.0,
+        "Aggravated Assault": 44.0,
+        "Burglary": 53.5,
+        "Shoplifting": 53.5,
+        "Theft from Vehicle": 62.0
+      }
+    }
+  ],
+  "quarantine_sample": [
+    ""
+  ],
+  "critical_present": false
+}

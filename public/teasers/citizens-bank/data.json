@@ -1,0 +1,1618 @@
+{
+  "company": "Citizens Bank",
+  "company_legal": "Citizens Bank, National Association",
+  "source_file": "Citizens Bank.xlsx",
+  "has_quarter_mile": true,
+  "missing_categories": [],
+  "counts": {
+    "submitted": 1075,
+    "scored": 1066,
+    "unscored": 7,
+    "quarantined_international": 2,
+    "states": 26,
+    "regions": 4,
+    "markets": 24,
+    "sites_in_markets": 214
+  },
+  "median_overall": 33.0,
+  "median_tier": "Low",
+  "min_overall": 1.0,
+  "max_overall": 74.0,
+  "high_count": 10,
+  "critical_count": 0,
+  "tiers": [
+    {
+      "name": "Very Low",
+      "min": 0,
+      "max": 30,
+      "count": 435,
+      "pct": 40.8
+    },
+    {
+      "name": "Low",
+      "min": 30,
+      "max": 50,
+      "count": 431,
+      "pct": 40.4
+    },
+    {
+      "name": "Medium",
+      "min": 50,
+      "max": 70,
+      "count": 190,
+      "pct": 17.8
+    },
+    {
+      "name": "High",
+      "min": 70,
+      "max": 90,
+      "count": 10,
+      "pct": 0.9
+    },
+    {
+      "name": "Critical",
+      "min": 90,
+      "max": 100,
+      "count": 0,
+      "pct": 0.0
+    }
+  ],
+  "regions": [
+    {
+      "name": "West",
+      "count": 21,
+      "median": 36.0,
+      "min": 4.0,
+      "max": 64.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Northeast",
+      "count": 796,
+      "median": 33.0,
+      "min": 4.0,
+      "max": 72.0,
+      "high_or_worse": 5,
+      "reportable": true
+    },
+    {
+      "name": "South",
+      "count": 80,
+      "median": 32.0,
+      "min": 1.0,
+      "max": 68.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Midwest",
+      "count": 169,
+      "median": 29.0,
+      "min": 1.0,
+      "max": 74.0,
+      "high_or_worse": 5,
+      "reportable": true
+    }
+  ],
+  "states": [
+    {
+      "name": "District Of Columbia",
+      "count": 1,
+      "median": 68.0,
+      "min": 68.0,
+      "max": 68.0,
+      "high_or_worse": 0,
+      "reportable": false
+    },
+    {
+      "name": "Florida",
+      "count": 7,
+      "median": 50.0,
+      "min": 28.0,
+      "max": 55.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "New York",
+      "count": 170,
+      "median": 43.0,
+      "min": 10.0,
+      "max": 66.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Virginia",
+      "count": 3,
+      "median": 41.0,
+      "min": 38.0,
+      "max": 41.0,
+      "high_or_worse": 0,
+      "reportable": false
+    },
+    {
+      "name": "Delaware",
+      "count": 17,
+      "median": 41.0,
+      "min": 22.0,
+      "max": 47.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "California",
+      "count": 5,
+      "median": 37.0,
+      "min": 30.0,
+      "max": 64.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Maryland",
+      "count": 4,
+      "median": 35.5,
+      "min": 29.0,
+      "max": 61.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Rhode Island",
+      "count": 53,
+      "median": 35.0,
+      "min": 16.0,
+      "max": 51.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Pennsylvania",
+      "count": 207,
+      "median": 34.0,
+      "min": 4.0,
+      "max": 72.0,
+      "high_or_worse": 5,
+      "reportable": true
+    },
+    {
+      "name": "Michigan",
+      "count": 65,
+      "median": 34.0,
+      "min": 6.0,
+      "max": 74.0,
+      "high_or_worse": 5,
+      "reportable": true
+    },
+    {
+      "name": "Oregon",
+      "count": 15,
+      "median": 34.0,
+      "min": 4.0,
+      "max": 48.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Kansas",
+      "count": 1,
+      "median": 33.0,
+      "min": 33.0,
+      "max": 33.0,
+      "high_or_worse": 0,
+      "reportable": false
+    },
+    {
+      "name": "New Hampshire",
+      "count": 40,
+      "median": 32.0,
+      "min": 13.0,
+      "max": 48.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Massachusetts",
+      "count": 179,
+      "median": 31.0,
+      "min": 15.0,
+      "max": 67.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Vermont",
+      "count": 10,
+      "median": 30.0,
+      "min": 5.0,
+      "max": 43.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "New Jersey",
+      "count": 107,
+      "median": 29.0,
+      "min": 7.0,
+      "max": 58.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Tennessee",
+      "count": 20,
+      "median": 28.5,
+      "min": 14.0,
+      "max": 54.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Indiana",
+      "count": 9,
+      "median": 28.0,
+      "min": 1.0,
+      "max": 62.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Ohio",
+      "count": 70,
+      "median": 27.5,
+      "min": 14.0,
+      "max": 69.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Texas",
+      "count": 14,
+      "median": 27.0,
+      "min": 1.0,
+      "max": 57.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Connecticut",
+      "count": 30,
+      "median": 26.5,
+      "min": 13.0,
+      "max": 64.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Kentucky",
+      "count": 6,
+      "median": 21.0,
+      "min": 1.0,
+      "max": 47.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Wisconsin",
+      "count": 11,
+      "median": 16.0,
+      "min": 8.0,
+      "max": 33.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Missouri",
+      "count": 13,
+      "median": 13.0,
+      "min": 1.0,
+      "max": 33.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "New Mexico",
+      "count": 1,
+      "median": 13.0,
+      "min": 13.0,
+      "max": 13.0,
+      "high_or_worse": 0,
+      "reportable": false
+    },
+    {
+      "name": "Mississippi",
+      "count": 8,
+      "median": 5.5,
+      "min": 2.0,
+      "max": 30.0,
+      "high_or_worse": 0,
+      "reportable": true
+    }
+  ],
+  "cities": [
+    {
+      "city": "Detroit",
+      "state": "Michigan",
+      "count": 6,
+      "median": 71.0,
+      "min": 68.0,
+      "max": 74.0,
+      "high_or_worse": 5,
+      "all_high": false,
+      "lat": 42.345,
+      "lon": -83.071,
+      "category_medians": {
+        "Theft": 65.0,
+        "Robbery": 72.0,
+        "Vehicle Theft": 73.0,
+        "Simple Assault": 74.0,
+        "Sex Offenses": 71.0,
+        "Vandalism": 73.5,
+        "Fraud": 69.0,
+        "Homicide": 69.0,
+        "Drug & Alcohol Violations": 56.0,
+        "Aggravated Assault": 79.5,
+        "Burglary": 73.5,
+        "Shoplifting": 54.0,
+        "Theft from Vehicle": 72.5
+      }
+    },
+    {
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "count": 35,
+      "median": 68.0,
+      "min": 53.0,
+      "max": 70.0,
+      "high_or_worse": 4,
+      "all_high": false,
+      "lat": 39.976,
+      "lon": -75.157,
+      "category_medians": {
+        "Theft": 66.0,
+        "Robbery": 71.0,
+        "Vehicle Theft": 66.0,
+        "Simple Assault": 65.0,
+        "Sex Offenses": 65.0,
+        "Vandalism": 66.0,
+        "Fraud": 65.0,
+        "Homicide": 69.0,
+        "Drug & Alcohol Violations": 64.0,
+        "Aggravated Assault": 71.0,
+        "Burglary": 66.0,
+        "Shoplifting": 68.0,
+        "Theft from Vehicle": 64.0
+      }
+    },
+    {
+      "city": "New York",
+      "state": "New York",
+      "count": 15,
+      "median": 65.0,
+      "min": 63.0,
+      "max": 66.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 40.745,
+      "lon": -73.987,
+      "category_medians": {
+        "Theft": 73.0,
+        "Robbery": 67.0,
+        "Vehicle Theft": 50.0,
+        "Simple Assault": 67.0,
+        "Sex Offenses": 66.0,
+        "Vandalism": 64.0,
+        "Fraud": 62.0,
+        "Homicide": 60.0,
+        "Drug & Alcohol Violations": 68.0,
+        "Aggravated Assault": 65.0,
+        "Burglary": 68.0,
+        "Shoplifting": 70.0,
+        "Theft from Vehicle": 60.0
+      }
+    },
+    {
+      "city": "Cleveland",
+      "state": "Ohio",
+      "count": 8,
+      "median": 64.5,
+      "min": 51.0,
+      "max": 69.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 41.458,
+      "lon": -81.695,
+      "category_medians": {
+        "Theft": 60.5,
+        "Robbery": 69.0,
+        "Vehicle Theft": 66.0,
+        "Simple Assault": 63.0,
+        "Sex Offenses": 65.0,
+        "Vandalism": 67.5,
+        "Fraud": 49.0,
+        "Homicide": 64.5,
+        "Drug & Alcohol Violations": 48.5,
+        "Aggravated Assault": 67.0,
+        "Burglary": 66.5,
+        "Shoplifting": 52.5,
+        "Theft from Vehicle": 57.0
+      }
+    },
+    {
+      "city": "Bronx",
+      "state": "New York",
+      "count": 5,
+      "median": 62.0,
+      "min": 55.0,
+      "max": 65.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 40.863,
+      "lon": -73.861,
+      "category_medians": {
+        "Theft": 67.0,
+        "Robbery": 65.0,
+        "Vehicle Theft": 59.0,
+        "Simple Assault": 65.0,
+        "Sex Offenses": 60.0,
+        "Vandalism": 63.0,
+        "Fraud": 57.0,
+        "Homicide": 55.0,
+        "Drug & Alcohol Violations": 61.0,
+        "Aggravated Assault": 62.0,
+        "Burglary": 63.0,
+        "Shoplifting": 65.0,
+        "Theft from Vehicle": 62.0
+      }
+    },
+    {
+      "city": "New York City",
+      "state": "New York",
+      "count": 10,
+      "median": 60.5,
+      "min": 56.0,
+      "max": 65.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 40.677,
+      "lon": -73.987,
+      "category_medians": {
+        "Theft": 67.0,
+        "Robbery": 61.5,
+        "Vehicle Theft": 49.5,
+        "Simple Assault": 61.5,
+        "Sex Offenses": 59.0,
+        "Vandalism": 58.0,
+        "Fraud": 58.0,
+        "Homicide": 54.5,
+        "Drug & Alcohol Violations": 63.5,
+        "Aggravated Assault": 61.0,
+        "Burglary": 62.0,
+        "Shoplifting": 66.0,
+        "Theft from Vehicle": 58.0
+      }
+    },
+    {
+      "city": "Brooklyn",
+      "state": "New York",
+      "count": 18,
+      "median": 60.0,
+      "min": 56.0,
+      "max": 63.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 40.634,
+      "lon": -73.973,
+      "category_medians": {
+        "Theft": 65.0,
+        "Robbery": 60.5,
+        "Vehicle Theft": 51.0,
+        "Simple Assault": 61.0,
+        "Sex Offenses": 59.5,
+        "Vandalism": 58.0,
+        "Fraud": 57.0,
+        "Homicide": 56.0,
+        "Drug & Alcohol Violations": 63.0,
+        "Aggravated Assault": 62.0,
+        "Burglary": 62.0,
+        "Shoplifting": 66.0,
+        "Theft from Vehicle": 57.5
+      }
+    },
+    {
+      "city": "Toledo",
+      "state": "Ohio",
+      "count": 4,
+      "median": 60.0,
+      "min": 55.0,
+      "max": 66.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 41.702,
+      "lon": -83.594,
+      "category_medians": {
+        "Theft": 62.0,
+        "Robbery": 60.0,
+        "Vehicle Theft": 54.0,
+        "Simple Assault": 66.0,
+        "Sex Offenses": 55.5,
+        "Vandalism": 50.5,
+        "Fraud": 46.0,
+        "Homicide": 59.0,
+        "Drug & Alcohol Violations": 57.5,
+        "Aggravated Assault": 71.0,
+        "Burglary": 62.5,
+        "Shoplifting": 56.5,
+        "Theft from Vehicle": 54.5
+      }
+    },
+    {
+      "city": "Canton",
+      "state": "Ohio",
+      "count": 4,
+      "median": 56.5,
+      "min": 49.0,
+      "max": 60.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 40.815,
+      "lon": -81.382,
+      "category_medians": {
+        "Theft": 60.5,
+        "Robbery": 58.0,
+        "Vehicle Theft": 53.0,
+        "Simple Assault": 64.5,
+        "Sex Offenses": 54.0,
+        "Vandalism": 56.5,
+        "Fraud": 47.0,
+        "Homicide": 51.5,
+        "Drug & Alcohol Violations": 52.5,
+        "Aggravated Assault": 58.5,
+        "Burglary": 59.0,
+        "Shoplifting": 48.5,
+        "Theft from Vehicle": 51.5
+      }
+    },
+    {
+      "city": "Dorchester",
+      "state": "Massachusetts",
+      "count": 4,
+      "median": 55.0,
+      "min": 52.0,
+      "max": 55.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 42.309,
+      "lon": -71.063,
+      "category_medians": {
+        "Theft": 54.5,
+        "Robbery": 62.0,
+        "Vehicle Theft": 52.5,
+        "Simple Assault": 57.5,
+        "Sex Offenses": 45.5,
+        "Vandalism": 56.5,
+        "Fraud": 56.0,
+        "Homicide": 42.0,
+        "Drug & Alcohol Violations": 56.0,
+        "Aggravated Assault": 61.5,
+        "Burglary": 54.5,
+        "Shoplifting": 55.5,
+        "Theft from Vehicle": 57.0
+      }
+    },
+    {
+      "city": "Boston",
+      "state": "Massachusetts",
+      "count": 16,
+      "median": 54.0,
+      "min": 36.0,
+      "max": 56.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 42.351,
+      "lon": -71.075,
+      "category_medians": {
+        "Theft": 55.5,
+        "Robbery": 62.0,
+        "Vehicle Theft": 50.0,
+        "Simple Assault": 56.0,
+        "Sex Offenses": 44.0,
+        "Vandalism": 54.5,
+        "Fraud": 55.0,
+        "Homicide": 42.5,
+        "Drug & Alcohol Violations": 55.0,
+        "Aggravated Assault": 60.0,
+        "Burglary": 54.0,
+        "Shoplifting": 59.0,
+        "Theft from Vehicle": 56.0
+      }
+    },
+    {
+      "city": "Albany",
+      "state": "New York",
+      "count": 5,
+      "median": 52.0,
+      "min": 39.0,
+      "max": 53.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 42.666,
+      "lon": -73.79,
+      "category_medians": {
+        "Theft": 56.0,
+        "Robbery": 52.0,
+        "Vehicle Theft": 50.0,
+        "Simple Assault": 57.0,
+        "Sex Offenses": 42.0,
+        "Vandalism": 61.0,
+        "Fraud": 42.0,
+        "Homicide": 46.0,
+        "Drug & Alcohol Violations": 47.0,
+        "Aggravated Assault": 54.0,
+        "Burglary": 55.0,
+        "Shoplifting": 50.0,
+        "Theft from Vehicle": 54.0
+      }
+    },
+    {
+      "city": "Providence",
+      "state": "Rhode Island",
+      "count": 9,
+      "median": 49.0,
+      "min": 44.0,
+      "max": 51.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 41.827,
+      "lon": -71.411,
+      "category_medians": {
+        "Theft": 54.0,
+        "Robbery": 50.0,
+        "Vehicle Theft": 51.0,
+        "Simple Assault": 49.0,
+        "Sex Offenses": 42.0,
+        "Vandalism": 59.0,
+        "Fraud": 51.0,
+        "Homicide": 45.0,
+        "Drug & Alcohol Violations": 46.0,
+        "Aggravated Assault": 50.0,
+        "Burglary": 48.0,
+        "Shoplifting": 44.0,
+        "Theft from Vehicle": 56.0
+      }
+    },
+    {
+      "city": "Staten Island",
+      "state": "New York",
+      "count": 5,
+      "median": 47.0,
+      "min": 46.0,
+      "max": 49.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 40.591,
+      "lon": -74.13,
+      "category_medians": {
+        "Theft": 55.0,
+        "Robbery": 48.0,
+        "Vehicle Theft": 35.0,
+        "Simple Assault": 50.0,
+        "Sex Offenses": 47.0,
+        "Vandalism": 46.0,
+        "Fraud": 46.0,
+        "Homicide": 41.0,
+        "Drug & Alcohol Violations": 48.0,
+        "Aggravated Assault": 47.0,
+        "Burglary": 47.0,
+        "Shoplifting": 52.0,
+        "Theft from Vehicle": 45.0
+      }
+    },
+    {
+      "city": "Cambridge",
+      "state": "Massachusetts",
+      "count": 4,
+      "median": 46.5,
+      "min": 38.0,
+      "max": 52.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 42.369,
+      "lon": -71.112,
+      "category_medians": {
+        "Theft": 55.0,
+        "Robbery": 43.0,
+        "Vehicle Theft": 42.5,
+        "Simple Assault": 44.0,
+        "Sex Offenses": 40.0,
+        "Vandalism": 49.5,
+        "Fraud": 53.5,
+        "Homicide": 40.0,
+        "Drug & Alcohol Violations": 46.0,
+        "Aggravated Assault": 49.5,
+        "Burglary": 51.0,
+        "Shoplifting": 55.5,
+        "Theft from Vehicle": 46.5
+      }
+    },
+    {
+      "city": "Manchester",
+      "state": "New Hampshire",
+      "count": 4,
+      "median": 46.5,
+      "min": 45.0,
+      "max": 48.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 42.989,
+      "lon": -71.454,
+      "category_medians": {
+        "Theft": 55.0,
+        "Robbery": 43.0,
+        "Vehicle Theft": 41.5,
+        "Simple Assault": 50.5,
+        "Sex Offenses": 49.0,
+        "Vandalism": 55.5,
+        "Fraud": 50.0,
+        "Homicide": 37.0,
+        "Drug & Alcohol Violations": 60.0,
+        "Aggravated Assault": 42.5,
+        "Burglary": 46.5,
+        "Shoplifting": 49.0,
+        "Theft from Vehicle": 50.5
+      }
+    },
+    {
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "count": 21,
+      "median": 46.0,
+      "min": 27.0,
+      "max": 64.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 40.442,
+      "lon": -79.983,
+      "category_medians": {
+        "Theft": 44.0,
+        "Robbery": 54.0,
+        "Vehicle Theft": 55.0,
+        "Simple Assault": 56.0,
+        "Sex Offenses": 46.0,
+        "Vandalism": 46.0,
+        "Fraud": 48.0,
+        "Homicide": 56.0,
+        "Drug & Alcohol Violations": 54.0,
+        "Aggravated Assault": 55.0,
+        "Burglary": 50.0,
+        "Shoplifting": 60.0,
+        "Theft from Vehicle": 46.0
+      }
+    },
+    {
+      "city": "Wilmington",
+      "state": "Delaware",
+      "count": 6,
+      "median": 43.5,
+      "min": 37.0,
+      "max": 47.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 39.745,
+      "lon": -75.556,
+      "category_medians": {
+        "Theft": 42.5,
+        "Robbery": 47.5,
+        "Vehicle Theft": 46.0,
+        "Simple Assault": 39.0,
+        "Sex Offenses": 29.5,
+        "Vandalism": 55.5,
+        "Fraud": 33.5,
+        "Homicide": 51.5,
+        "Drug & Alcohol Violations": 42.5,
+        "Aggravated Assault": 45.0,
+        "Burglary": 44.0,
+        "Shoplifting": 36.5,
+        "Theft from Vehicle": 44.5
+      }
+    },
+    {
+      "city": "Rochester",
+      "state": "New York",
+      "count": 11,
+      "median": 38.0,
+      "min": 27.0,
+      "max": 62.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 43.133,
+      "lon": -77.605,
+      "category_medians": {
+        "Theft": 45.0,
+        "Robbery": 41.0,
+        "Vehicle Theft": 57.0,
+        "Simple Assault": 52.0,
+        "Sex Offenses": 39.0,
+        "Vandalism": 47.0,
+        "Fraud": 33.0,
+        "Homicide": 42.0,
+        "Drug & Alcohol Violations": 34.0,
+        "Aggravated Assault": 39.0,
+        "Burglary": 46.0,
+        "Shoplifting": 35.0,
+        "Theft from Vehicle": 40.0
+      }
+    },
+    {
+      "city": "Cranston",
+      "state": "Rhode Island",
+      "count": 7,
+      "median": 38.0,
+      "min": 33.0,
+      "max": 45.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 41.779,
+      "lon": -71.459,
+      "category_medians": {
+        "Theft": 40.0,
+        "Robbery": 25.0,
+        "Vehicle Theft": 43.0,
+        "Simple Assault": 35.0,
+        "Sex Offenses": 34.0,
+        "Vandalism": 45.0,
+        "Fraud": 46.0,
+        "Homicide": 34.0,
+        "Drug & Alcohol Violations": 43.0,
+        "Aggravated Assault": 34.0,
+        "Burglary": 46.0,
+        "Shoplifting": 43.0,
+        "Theft from Vehicle": 44.0
+      }
+    },
+    {
+      "city": "Erie",
+      "state": "Pennsylvania",
+      "count": 5,
+      "median": 37.0,
+      "min": 36.0,
+      "max": 49.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 42.103,
+      "lon": -80.082,
+      "category_medians": {
+        "Theft": 44.0,
+        "Robbery": 32.0,
+        "Vehicle Theft": 34.0,
+        "Simple Assault": 38.0,
+        "Sex Offenses": 34.0,
+        "Vandalism": 46.0,
+        "Fraud": 35.0,
+        "Homicide": 28.0,
+        "Drug & Alcohol Violations": 45.0,
+        "Aggravated Assault": 37.0,
+        "Burglary": 41.0,
+        "Shoplifting": 39.0,
+        "Theft from Vehicle": 40.0
+      }
+    },
+    {
+      "city": "Warwick",
+      "state": "Rhode Island",
+      "count": 4,
+      "median": 35.0,
+      "min": 29.0,
+      "max": 35.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 41.711,
+      "lon": -71.441,
+      "category_medians": {
+        "Theft": 36.5,
+        "Robbery": 25.0,
+        "Vehicle Theft": 38.5,
+        "Simple Assault": 36.5,
+        "Sex Offenses": 30.0,
+        "Vandalism": 40.5,
+        "Fraud": 45.0,
+        "Homicide": 26.0,
+        "Drug & Alcohol Violations": 41.0,
+        "Aggravated Assault": 26.0,
+        "Burglary": 42.0,
+        "Shoplifting": 46.5,
+        "Theft from Vehicle": 36.5
+      }
+    },
+    {
+      "city": "Nashua",
+      "state": "New Hampshire",
+      "count": 4,
+      "median": 33.5,
+      "min": 31.0,
+      "max": 41.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 42.761,
+      "lon": -71.481,
+      "category_medians": {
+        "Theft": 42.5,
+        "Robbery": 25.0,
+        "Vehicle Theft": 32.0,
+        "Simple Assault": 37.5,
+        "Sex Offenses": 35.0,
+        "Vandalism": 41.5,
+        "Fraud": 39.0,
+        "Homicide": 27.0,
+        "Drug & Alcohol Violations": 45.0,
+        "Aggravated Assault": 26.0,
+        "Burglary": 32.0,
+        "Shoplifting": 43.0,
+        "Theft from Vehicle": 38.5
+      }
+    },
+    {
+      "city": "Woburn",
+      "state": "Massachusetts",
+      "count": 4,
+      "median": 26.5,
+      "min": 21.0,
+      "max": 32.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 42.49,
+      "lon": -71.156,
+      "category_medians": {
+        "Theft": 27.0,
+        "Robbery": 26.5,
+        "Vehicle Theft": 23.0,
+        "Simple Assault": 18.5,
+        "Sex Offenses": 28.0,
+        "Vandalism": 22.5,
+        "Fraud": 31.0,
+        "Homicide": 27.0,
+        "Drug & Alcohol Violations": 20.0,
+        "Aggravated Assault": 33.0,
+        "Burglary": 25.5,
+        "Shoplifting": 23.5,
+        "Theft from Vehicle": 21.0
+      }
+    }
+  ],
+  "largest_market": {
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "count": 35,
+    "median": 68.0,
+    "min": 53.0,
+    "max": 70.0,
+    "high_or_worse": 4,
+    "all_high": false,
+    "lat": 39.976,
+    "lon": -75.157,
+    "category_medians": {
+      "Theft": 66.0,
+      "Robbery": 71.0,
+      "Vehicle Theft": 66.0,
+      "Simple Assault": 65.0,
+      "Sex Offenses": 65.0,
+      "Vandalism": 66.0,
+      "Fraud": 65.0,
+      "Homicide": 69.0,
+      "Drug & Alcohol Violations": 64.0,
+      "Aggravated Assault": 71.0,
+      "Burglary": 66.0,
+      "Shoplifting": 68.0,
+      "Theft from Vehicle": 64.0
+    }
+  },
+  "category_medians": {
+    "Theft": 35.0,
+    "Robbery": 31.0,
+    "Vehicle Theft": 34.0,
+    "Simple Assault": 32.0,
+    "Sex Offenses": 30.5,
+    "Vandalism": 36.0,
+    "Fraud": 35.0,
+    "Homicide": 31.0,
+    "Drug & Alcohol Violations": 33.0,
+    "Aggravated Assault": 31.0,
+    "Burglary": 34.0,
+    "Shoplifting": 35.0,
+    "Theft from Vehicle": 35.0
+  },
+  "cluster_finding": {
+    "markets": [],
+    "total": 0
+  },
+  "gap_finding": {
+    "sites": 60,
+    "by_category": [
+      [
+        "Aggravated Assault",
+        31
+      ],
+      [
+        "Theft",
+        28
+      ],
+      [
+        "Robbery",
+        27
+      ],
+      [
+        "Shoplifting",
+        21
+      ],
+      [
+        "Homicide",
+        15
+      ],
+      [
+        "Vehicle Theft",
+        9
+      ],
+      [
+        "Vandalism",
+        5
+      ],
+      [
+        "Simple Assault",
+        5
+      ],
+      [
+        "Burglary",
+        4
+      ],
+      [
+        "Theft from Vehicle",
+        2
+      ],
+      [
+        "Drug & Alcohol Violations",
+        1
+      ],
+      [
+        "Sex Offenses",
+        1
+      ]
+    ],
+    "representative": {
+      "city": "Toledo",
+      "state": "Ohio",
+      "overall": 66.0,
+      "tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 73.0,
+      "spread": 7.0
+    }
+  },
+  "category_gaps": [
+    {
+      "city": "Wynnewood",
+      "state": "Pennsylvania",
+      "overall": 28.0,
+      "overall_tier": "Very Low",
+      "category": "Homicide",
+      "category_score": 62.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Holmes",
+      "state": "Pennsylvania",
+      "overall": 24.0,
+      "overall_tier": "Very Low",
+      "category": "Robbery",
+      "category_score": 59.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Elkins Park",
+      "state": "Pennsylvania",
+      "overall": 28.0,
+      "overall_tier": "Very Low",
+      "category": "Sex Offenses",
+      "category_score": 59.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Amherst",
+      "state": "New York",
+      "overall": 29.0,
+      "overall_tier": "Very Low",
+      "category": "Theft from Vehicle",
+      "category_score": 58.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Elkins Park",
+      "state": "Pennsylvania",
+      "overall": 28.0,
+      "overall_tier": "Very Low",
+      "category": "Homicide",
+      "category_score": 58.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Kearny",
+      "state": "New Jersey",
+      "overall": 26.0,
+      "overall_tier": "Very Low",
+      "category": "Vandalism",
+      "category_score": 57.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Narberth",
+      "state": "Pennsylvania",
+      "overall": 23.0,
+      "overall_tier": "Very Low",
+      "category": "Homicide",
+      "category_score": 57.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Hamburg",
+      "state": "New York",
+      "overall": 28.0,
+      "overall_tier": "Very Low",
+      "category": "Theft",
+      "category_score": 56.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Amherst",
+      "state": "New York",
+      "overall": 29.0,
+      "overall_tier": "Very Low",
+      "category": "Shoplifting",
+      "category_score": 55.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Elkins Park",
+      "state": "Pennsylvania",
+      "overall": 28.0,
+      "overall_tier": "Very Low",
+      "category": "Shoplifting",
+      "category_score": 55.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Wynnewood",
+      "state": "Pennsylvania",
+      "overall": 28.0,
+      "overall_tier": "Very Low",
+      "category": "Sex Offenses",
+      "category_score": 54.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "West Seneca",
+      "state": "New York",
+      "overall": 22.0,
+      "overall_tier": "Very Low",
+      "category": "Theft from Vehicle",
+      "category_score": 53.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Amherst",
+      "state": "New York",
+      "overall": 29.0,
+      "overall_tier": "Very Low",
+      "category": "Drug & Alcohol Violations",
+      "category_score": 51.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Akron",
+      "state": "Ohio",
+      "overall": 20.0,
+      "overall_tier": "Very Low",
+      "category": "Aggravated Assault",
+      "category_score": 51.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "West Seneca",
+      "state": "New York",
+      "overall": 22.0,
+      "overall_tier": "Very Low",
+      "category": "Shoplifting",
+      "category_score": 51.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Elkins Park",
+      "state": "Pennsylvania",
+      "overall": 28.0,
+      "overall_tier": "Very Low",
+      "category": "Vandalism",
+      "category_score": 50.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Elkins Park",
+      "state": "Pennsylvania",
+      "overall": 28.0,
+      "overall_tier": "Very Low",
+      "category": "Fraud",
+      "category_score": 50.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Elkins Park",
+      "state": "Pennsylvania",
+      "overall": 28.0,
+      "overall_tier": "Very Low",
+      "category": "Drug & Alcohol Violations",
+      "category_score": 50.0,
+      "category_tier": "Medium",
+      "tier_jump": 2
+    },
+    {
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "overall": 69.0,
+      "overall_tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "New York",
+      "state": "New York",
+      "overall": 65.0,
+      "overall_tier": "Medium",
+      "category": "Theft",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "overall": 69.0,
+      "overall_tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Detroit",
+      "state": "Michigan",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Washington",
+      "state": "District Of Columbia",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "overall": 67.0,
+      "overall_tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "New York",
+      "state": "New York",
+      "overall": 66.0,
+      "overall_tier": "Medium",
+      "category": "Theft",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Springfield",
+      "state": "Massachusetts",
+      "overall": 67.0,
+      "overall_tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Cleveland",
+      "state": "Ohio",
+      "overall": 66.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "New York",
+      "state": "New York",
+      "overall": 65.0,
+      "overall_tier": "Medium",
+      "category": "Theft",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Cleveland",
+      "state": "Ohio",
+      "overall": 67.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "New York",
+      "state": "New York",
+      "overall": 65.0,
+      "overall_tier": "Medium",
+      "category": "Theft",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "New York City",
+      "state": "New York",
+      "overall": 65.0,
+      "overall_tier": "Medium",
+      "category": "Theft",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Washington",
+      "state": "District Of Columbia",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Homicide",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "New York",
+      "state": "New York",
+      "overall": 66.0,
+      "overall_tier": "Medium",
+      "category": "Theft",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "overall": 69.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "New York",
+      "state": "New York",
+      "overall": 65.0,
+      "overall_tier": "Medium",
+      "category": "Theft",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "New York City",
+      "state": "New York",
+      "overall": 64.0,
+      "overall_tier": "Medium",
+      "category": "Theft",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "New York",
+      "state": "New York",
+      "overall": 66.0,
+      "overall_tier": "Medium",
+      "category": "Theft",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "New York",
+      "state": "New York",
+      "overall": 64.0,
+      "overall_tier": "Medium",
+      "category": "Theft",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    }
+  ],
+  "outlier_flags": [
+    {
+      "why": "2 international/stateless row(s) quarantined: coordinates resolve to same-named US towns and their scores are not the real locations",
+      "examples": [
+        "George Town",
+        "Grand Cayman"
+      ]
+    }
+  ],
+  "sample_rows": [
+    {
+      "city": "Detroit",
+      "state": "Michigan",
+      "count": 6,
+      "median": 71.0,
+      "min": 68.0,
+      "max": 74.0,
+      "high_or_worse": 5,
+      "all_high": false,
+      "lat": 42.345,
+      "lon": -83.071,
+      "category_medians": {
+        "Theft": 65.0,
+        "Robbery": 72.0,
+        "Vehicle Theft": 73.0,
+        "Simple Assault": 74.0,
+        "Sex Offenses": 71.0,
+        "Vandalism": 73.5,
+        "Fraud": 69.0,
+        "Homicide": 69.0,
+        "Drug & Alcohol Violations": 56.0,
+        "Aggravated Assault": 79.5,
+        "Burglary": 73.5,
+        "Shoplifting": 54.0,
+        "Theft from Vehicle": 72.5
+      }
+    },
+    {
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "count": 35,
+      "median": 68.0,
+      "min": 53.0,
+      "max": 70.0,
+      "high_or_worse": 4,
+      "all_high": false,
+      "lat": 39.976,
+      "lon": -75.157,
+      "category_medians": {
+        "Theft": 66.0,
+        "Robbery": 71.0,
+        "Vehicle Theft": 66.0,
+        "Simple Assault": 65.0,
+        "Sex Offenses": 65.0,
+        "Vandalism": 66.0,
+        "Fraud": 65.0,
+        "Homicide": 69.0,
+        "Drug & Alcohol Violations": 64.0,
+        "Aggravated Assault": 71.0,
+        "Burglary": 66.0,
+        "Shoplifting": 68.0,
+        "Theft from Vehicle": 64.0
+      }
+    },
+    {
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "count": 21,
+      "median": 46.0,
+      "min": 27.0,
+      "max": 64.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 40.442,
+      "lon": -79.983,
+      "category_medians": {
+        "Theft": 44.0,
+        "Robbery": 54.0,
+        "Vehicle Theft": 55.0,
+        "Simple Assault": 56.0,
+        "Sex Offenses": 46.0,
+        "Vandalism": 46.0,
+        "Fraud": 48.0,
+        "Homicide": 56.0,
+        "Drug & Alcohol Violations": 54.0,
+        "Aggravated Assault": 55.0,
+        "Burglary": 50.0,
+        "Shoplifting": 60.0,
+        "Theft from Vehicle": 46.0
+      }
+    },
+    {
+      "city": "Woburn",
+      "state": "Massachusetts",
+      "count": 4,
+      "median": 26.5,
+      "min": 21.0,
+      "max": 32.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 42.49,
+      "lon": -71.156,
+      "category_medians": {
+        "Theft": 27.0,
+        "Robbery": 26.5,
+        "Vehicle Theft": 23.0,
+        "Simple Assault": 18.5,
+        "Sex Offenses": 28.0,
+        "Vandalism": 22.5,
+        "Fraud": 31.0,
+        "Homicide": 27.0,
+        "Drug & Alcohol Violations": 20.0,
+        "Aggravated Assault": 33.0,
+        "Burglary": 25.5,
+        "Shoplifting": 23.5,
+        "Theft from Vehicle": 21.0
+      }
+    }
+  ],
+  "quarantine_sample": [
+    "George Town",
+    "Grand Cayman"
+  ],
+  "critical_present": false
+}

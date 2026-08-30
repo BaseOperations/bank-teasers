@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Space Grotesk";
+  src: url("https://fonts.gstatic.com/s/spacegrotesk/v16/V8mDoQDjQSkFtoMM3T6r8E7mPb54C_k3HqUtEw.woff2")
+    format("woff2");
+  font-weight: 300 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@theme inline {
+  --color-surface-primary: #1c1d1f;
+  --color-surface-secondary: #31393a;
+  --color-surface-tertiary: #3d4546;
+  --color-surface-elevated: #252729;
+  --color-text-primary: #fafafa;
+  --color-text-secondary: #bfc4cc;
+  --color-text-tertiary: #8a93a1;
+  --color-text-muted: #505967;
+  --color-border-default: #505967;
+  --color-border-subtle: #2e3234;
+  --color-accent: #fdd835;
+  --color-on-accent: #080808;
+  --color-accent-surface: rgba(253, 216, 53, 0.06);
+  --color-accent-glow: rgba(253, 216, 53, 0.12);
+  --color-q1: #78c6f5;
+  --color-q2: #6a93e7;
+  --color-q3: #676dd8;
+  --color-q4: #9151b9;
+  --color-q5: #bd268e;
+  --font-sans: "Space Grotesk", system-ui, -apple-system, "Segoe UI", Roboto,
+    sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@keyframes grid-drift {
+  0% { transform: translate(0, 0); }
+  100% { transform: translate(40px, 40px); }
+}
+
+@keyframes pulse-soft {
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 0.7; }
+}
+
+@keyframes float-slow {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-12px); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

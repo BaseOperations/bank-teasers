@@ -1,0 +1,1050 @@
+{
+  "company": "Columbia Bank",
+  "company_legal": "Columbia Bank",
+  "source_file": "Columbia Bank.xlsx",
+  "has_quarter_mile": true,
+  "missing_categories": [],
+  "counts": {
+    "submitted": 445,
+    "scored": 442,
+    "unscored": 3,
+    "quarantined_international": 0,
+    "states": 9,
+    "regions": 2,
+    "markets": 11,
+    "sites_in_markets": 72
+  },
+  "median_overall": 34.0,
+  "median_tier": "Low",
+  "min_overall": 1.0,
+  "max_overall": 70.0,
+  "high_count": 1,
+  "critical_count": 0,
+  "tiers": [
+    {
+      "name": "Very Low",
+      "min": 0,
+      "max": 30,
+      "count": 165,
+      "pct": 37.3
+    },
+    {
+      "name": "Low",
+      "min": 30,
+      "max": 50,
+      "count": 203,
+      "pct": 45.9
+    },
+    {
+      "name": "Medium",
+      "min": 50,
+      "max": 70,
+      "count": 73,
+      "pct": 16.5
+    },
+    {
+      "name": "High",
+      "min": 70,
+      "max": 90,
+      "count": 1,
+      "pct": 0.2
+    },
+    {
+      "name": "Critical",
+      "min": 90,
+      "max": 100,
+      "count": 0,
+      "pct": 0.0
+    }
+  ],
+  "regions": [
+    {
+      "name": "West",
+      "count": 373,
+      "median": 36.0,
+      "min": 1.0,
+      "max": 70.0,
+      "high_or_worse": 1,
+      "reportable": true
+    },
+    {
+      "name": "Northeast",
+      "count": 69,
+      "median": 24.0,
+      "min": 7.0,
+      "max": 62.0,
+      "high_or_worse": 0,
+      "reportable": true
+    }
+  ],
+  "states": [
+    {
+      "name": "Nevada",
+      "count": 5,
+      "median": 54.0,
+      "min": 39.0,
+      "max": 56.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Arizona",
+      "count": 7,
+      "median": 51.0,
+      "min": 37.0,
+      "max": 70.0,
+      "high_or_worse": 1,
+      "reportable": true
+    },
+    {
+      "name": "Colorado",
+      "count": 1,
+      "median": 51.0,
+      "min": 51.0,
+      "max": 51.0,
+      "high_or_worse": 0,
+      "reportable": false
+    },
+    {
+      "name": "Washington",
+      "count": 116,
+      "median": 39.0,
+      "min": 1.0,
+      "max": 68.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "California",
+      "count": 108,
+      "median": 36.0,
+      "min": 1.0,
+      "max": 64.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Oregon",
+      "count": 110,
+      "median": 34.0,
+      "min": 1.0,
+      "max": 68.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "Utah",
+      "count": 1,
+      "median": 31.0,
+      "min": 31.0,
+      "max": 31.0,
+      "high_or_worse": 0,
+      "reportable": false
+    },
+    {
+      "name": "Idaho",
+      "count": 25,
+      "median": 27.0,
+      "min": 1.0,
+      "max": 48.0,
+      "high_or_worse": 0,
+      "reportable": true
+    },
+    {
+      "name": "New Jersey",
+      "count": 69,
+      "median": 24.0,
+      "min": 7.0,
+      "max": 62.0,
+      "high_or_worse": 0,
+      "reportable": true
+    }
+  ],
+  "cities": [
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "count": 15,
+      "median": 65.0,
+      "min": 49.0,
+      "max": 68.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 45.519,
+      "lon": -122.675,
+      "category_medians": {
+        "Theft": 68.0,
+        "Robbery": 70.0,
+        "Vehicle Theft": 72.0,
+        "Simple Assault": 53.0,
+        "Sex Offenses": 50.0,
+        "Vandalism": 68.0,
+        "Fraud": 63.0,
+        "Homicide": 65.0,
+        "Drug & Alcohol Violations": 55.0,
+        "Aggravated Assault": 66.0,
+        "Burglary": 73.0,
+        "Shoplifting": 69.0,
+        "Theft from Vehicle": 67.0
+      }
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "count": 9,
+      "median": 65.0,
+      "min": 56.0,
+      "max": 68.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 47.624,
+      "lon": -122.34,
+      "category_medians": {
+        "Theft": 68.0,
+        "Robbery": 66.0,
+        "Vehicle Theft": 71.0,
+        "Simple Assault": 55.0,
+        "Sex Offenses": 50.0,
+        "Vandalism": 68.0,
+        "Fraud": 66.0,
+        "Homicide": 63.0,
+        "Drug & Alcohol Violations": 60.0,
+        "Aggravated Assault": 63.0,
+        "Burglary": 73.0,
+        "Shoplifting": 66.0,
+        "Theft from Vehicle": 75.0
+      }
+    },
+    {
+      "city": "Tacoma",
+      "state": "Washington",
+      "count": 6,
+      "median": 63.0,
+      "min": 61.0,
+      "max": 66.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 47.258,
+      "lon": -122.465,
+      "category_medians": {
+        "Theft": 67.5,
+        "Robbery": 65.0,
+        "Vehicle Theft": 69.5,
+        "Simple Assault": 58.5,
+        "Sex Offenses": 56.0,
+        "Vandalism": 65.5,
+        "Fraud": 55.0,
+        "Homicide": 54.5,
+        "Drug & Alcohol Violations": 53.5,
+        "Aggravated Assault": 71.5,
+        "Burglary": 72.0,
+        "Shoplifting": 50.5,
+        "Theft from Vehicle": 68.5
+      }
+    },
+    {
+      "city": "Spokane",
+      "state": "Washington",
+      "count": 5,
+      "median": 62.0,
+      "min": 45.0,
+      "max": 67.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 47.659,
+      "lon": -117.41,
+      "category_medians": {
+        "Theft": 61.0,
+        "Robbery": 64.0,
+        "Vehicle Theft": 53.0,
+        "Simple Assault": 65.0,
+        "Sex Offenses": 59.0,
+        "Vandalism": 62.0,
+        "Fraud": 63.0,
+        "Homicide": 58.0,
+        "Drug & Alcohol Violations": 60.0,
+        "Aggravated Assault": 62.0,
+        "Burglary": 66.0,
+        "Shoplifting": 67.0,
+        "Theft from Vehicle": 68.0
+      }
+    },
+    {
+      "city": "Vancouver",
+      "state": "Washington",
+      "count": 11,
+      "median": 50.0,
+      "min": 36.0,
+      "max": 54.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 45.63,
+      "lon": -122.651,
+      "category_medians": {
+        "Theft": 52.0,
+        "Robbery": 52.0,
+        "Vehicle Theft": 51.0,
+        "Simple Assault": 52.0,
+        "Sex Offenses": 46.0,
+        "Vandalism": 57.0,
+        "Fraud": 42.0,
+        "Homicide": 40.0,
+        "Drug & Alcohol Violations": 39.0,
+        "Aggravated Assault": 50.0,
+        "Burglary": 60.0,
+        "Shoplifting": 47.0,
+        "Theft from Vehicle": 50.5
+      }
+    },
+    {
+      "city": "Eugene",
+      "state": "Oregon",
+      "count": 4,
+      "median": 48.5,
+      "min": 48.0,
+      "max": 50.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 44.06,
+      "lon": -123.112,
+      "category_medians": {
+        "Theft": 60.5,
+        "Robbery": 44.0,
+        "Vehicle Theft": 50.0,
+        "Simple Assault": 43.0,
+        "Sex Offenses": 49.5,
+        "Vandalism": 56.5,
+        "Fraud": 54.0,
+        "Homicide": 29.5,
+        "Drug & Alcohol Violations": 47.0,
+        "Aggravated Assault": 41.0,
+        "Burglary": 59.0,
+        "Shoplifting": 51.5,
+        "Theft from Vehicle": 59.5
+      }
+    },
+    {
+      "city": "Salem",
+      "state": "Oregon",
+      "count": 4,
+      "median": 47.0,
+      "min": 45.0,
+      "max": 50.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 44.925,
+      "lon": -123.029,
+      "category_medians": {
+        "Theft": 55.0,
+        "Robbery": 45.0,
+        "Vehicle Theft": 48.0,
+        "Simple Assault": 47.5,
+        "Sex Offenses": 35.0,
+        "Vandalism": 57.0,
+        "Fraud": 45.5,
+        "Homicide": 40.5,
+        "Drug & Alcohol Violations": 43.0,
+        "Aggravated Assault": 47.0,
+        "Burglary": 55.0,
+        "Shoplifting": 47.0,
+        "Theft from Vehicle": 50.0
+      }
+    },
+    {
+      "city": "Everett",
+      "state": "Washington",
+      "count": 4,
+      "median": 45.0,
+      "min": 45.0,
+      "max": 48.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 47.94,
+      "lon": -122.209,
+      "category_medians": {
+        "Theft": 55.5,
+        "Robbery": 46.5,
+        "Vehicle Theft": 56.5,
+        "Simple Assault": 41.5,
+        "Sex Offenses": 41.0,
+        "Vandalism": 51.0,
+        "Fraud": 45.5,
+        "Homicide": 31.5,
+        "Drug & Alcohol Violations": 51.5,
+        "Aggravated Assault": 40.0,
+        "Burglary": 52.0,
+        "Shoplifting": 41.5,
+        "Theft from Vehicle": 50.5
+      }
+    },
+    {
+      "city": "Bellevue",
+      "state": "Washington",
+      "count": 4,
+      "median": 41.0,
+      "min": 41.0,
+      "max": 41.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 47.616,
+      "lon": -122.2,
+      "category_medians": {
+        "Theft": 51.0,
+        "Robbery": 34.0,
+        "Vehicle Theft": 49.5,
+        "Simple Assault": 36.5,
+        "Sex Offenses": 30.0,
+        "Vandalism": 47.5,
+        "Fraud": 44.0,
+        "Homicide": 31.0,
+        "Drug & Alcohol Violations": 37.0,
+        "Aggravated Assault": 30.0,
+        "Burglary": 53.5,
+        "Shoplifting": 52.0,
+        "Theft from Vehicle": 53.5
+      }
+    },
+    {
+      "city": "Bend",
+      "state": "Oregon",
+      "count": 5,
+      "median": 37.0,
+      "min": 36.0,
+      "max": 39.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 44.046,
+      "lon": -121.313,
+      "category_medians": {
+        "Theft": 51.0,
+        "Robbery": 28.0,
+        "Vehicle Theft": 32.0,
+        "Simple Assault": 28.0,
+        "Sex Offenses": 39.0,
+        "Vandalism": 51.0,
+        "Fraud": 35.0,
+        "Homicide": 35.0,
+        "Drug & Alcohol Violations": 41.0,
+        "Aggravated Assault": 28.0,
+        "Burglary": 40.0,
+        "Shoplifting": 47.0,
+        "Theft from Vehicle": 40.0
+      }
+    },
+    {
+      "city": "Fair Lawn",
+      "state": "New Jersey",
+      "count": 5,
+      "median": 25.0,
+      "min": 22.0,
+      "max": 37.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 40.936,
+      "lon": -74.121,
+      "category_medians": {
+        "Theft": 19.0,
+        "Robbery": 35.0,
+        "Vehicle Theft": 27.0,
+        "Simple Assault": 19.0,
+        "Sex Offenses": 18.0,
+        "Vandalism": 22.0,
+        "Fraud": 21.0,
+        "Homicide": 29.0,
+        "Drug & Alcohol Violations": 24.0,
+        "Aggravated Assault": 27.0,
+        "Burglary": 27.0,
+        "Shoplifting": 27.0,
+        "Theft from Vehicle": 23.0
+      }
+    }
+  ],
+  "largest_market": {
+    "city": "Portland",
+    "state": "Oregon",
+    "count": 15,
+    "median": 65.0,
+    "min": 49.0,
+    "max": 68.0,
+    "high_or_worse": 0,
+    "all_high": false,
+    "lat": 45.519,
+    "lon": -122.675,
+    "category_medians": {
+      "Theft": 68.0,
+      "Robbery": 70.0,
+      "Vehicle Theft": 72.0,
+      "Simple Assault": 53.0,
+      "Sex Offenses": 50.0,
+      "Vandalism": 68.0,
+      "Fraud": 63.0,
+      "Homicide": 65.0,
+      "Drug & Alcohol Violations": 55.0,
+      "Aggravated Assault": 66.0,
+      "Burglary": 73.0,
+      "Shoplifting": 69.0,
+      "Theft from Vehicle": 67.0
+    }
+  },
+  "category_medians": {
+    "Theft": 37.0,
+    "Robbery": 31.0,
+    "Vehicle Theft": 36.0,
+    "Simple Assault": 33.0,
+    "Sex Offenses": 31.0,
+    "Vandalism": 38.0,
+    "Fraud": 34.0,
+    "Homicide": 26.0,
+    "Drug & Alcohol Violations": 35.0,
+    "Aggravated Assault": 30.0,
+    "Burglary": 38.0,
+    "Shoplifting": 37.0,
+    "Theft from Vehicle": 38.0
+  },
+  "cluster_finding": {
+    "markets": [],
+    "total": 0
+  },
+  "gap_finding": {
+    "sites": 29,
+    "by_category": [
+      [
+        "Burglary",
+        24
+      ],
+      [
+        "Vehicle Theft",
+        21
+      ],
+      [
+        "Robbery",
+        13
+      ],
+      [
+        "Theft from Vehicle",
+        12
+      ],
+      [
+        "Theft",
+        10
+      ],
+      [
+        "Vandalism",
+        8
+      ],
+      [
+        "Shoplifting",
+        7
+      ],
+      [
+        "Aggravated Assault",
+        5
+      ],
+      [
+        "Fraud",
+        2
+      ],
+      [
+        "Homicide",
+        1
+      ]
+    ],
+    "representative": {
+      "city": "Seattle",
+      "state": "Washington",
+      "overall": 68.0,
+      "tier": "Medium",
+      "category": "Theft from Vehicle",
+      "category_score": 77.0,
+      "spread": 9.0
+    }
+  },
+  "category_gaps": [
+    {
+      "city": "Tucson",
+      "state": "Arizona",
+      "overall": 37.0,
+      "overall_tier": "Low",
+      "category": "Homicide",
+      "category_score": 71.0,
+      "category_tier": "High",
+      "tier_jump": 2
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "overall": 67.0,
+      "overall_tier": "Medium",
+      "category": "Theft from Vehicle",
+      "category_score": 77.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Theft from Vehicle",
+      "category_score": 77.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 67.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 76.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 67.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 76.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 67.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 76.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 76.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "overall": 65.0,
+      "overall_tier": "Medium",
+      "category": "Theft from Vehicle",
+      "category_score": 76.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 76.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 76.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 67.0,
+      "overall_tier": "Medium",
+      "category": "Vehicle Theft",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "overall": 67.0,
+      "overall_tier": "Medium",
+      "category": "Theft from Vehicle",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "overall": 67.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 67.0,
+      "overall_tier": "Medium",
+      "category": "Vehicle Theft",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 67.0,
+      "overall_tier": "Medium",
+      "category": "Vehicle Theft",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Vehicle Theft",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "overall": 64.0,
+      "overall_tier": "Medium",
+      "category": "Theft from Vehicle",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "overall": 67.0,
+      "overall_tier": "Medium",
+      "category": "Theft from Vehicle",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Vehicle Theft",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Vehicle Theft",
+      "category_score": 75.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "overall": 63.0,
+      "overall_tier": "Medium",
+      "category": "Theft from Vehicle",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 65.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Tacoma",
+      "state": "Washington",
+      "overall": 66.0,
+      "overall_tier": "Medium",
+      "category": "Vehicle Theft",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Tacoma",
+      "state": "Washington",
+      "overall": 66.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Vehicle Theft",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "overall": 65.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 74.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 67.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 64.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "overall": 67.0,
+      "overall_tier": "Medium",
+      "category": "Burglary",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "overall": 67.0,
+      "overall_tier": "Medium",
+      "category": "Vehicle Theft",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 67.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 67.0,
+      "overall_tier": "Medium",
+      "category": "Robbery",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 68.0,
+      "overall_tier": "Medium",
+      "category": "Shoplifting",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "overall": 65.0,
+      "overall_tier": "Medium",
+      "category": "Vehicle Theft",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Tacoma",
+      "state": "Washington",
+      "overall": 66.0,
+      "overall_tier": "Medium",
+      "category": "Vehicle Theft",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    },
+    {
+      "city": "Tacoma",
+      "state": "Washington",
+      "overall": 66.0,
+      "overall_tier": "Medium",
+      "category": "Aggravated Assault",
+      "category_score": 73.0,
+      "category_tier": "High",
+      "tier_jump": 1
+    }
+  ],
+  "outlier_flags": [],
+  "sample_rows": [
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "count": 15,
+      "median": 65.0,
+      "min": 49.0,
+      "max": 68.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 45.519,
+      "lon": -122.675,
+      "category_medians": {
+        "Theft": 68.0,
+        "Robbery": 70.0,
+        "Vehicle Theft": 72.0,
+        "Simple Assault": 53.0,
+        "Sex Offenses": 50.0,
+        "Vandalism": 68.0,
+        "Fraud": 63.0,
+        "Homicide": 65.0,
+        "Drug & Alcohol Violations": 55.0,
+        "Aggravated Assault": 66.0,
+        "Burglary": 73.0,
+        "Shoplifting": 69.0,
+        "Theft from Vehicle": 67.0
+      }
+    },
+    {
+      "city": "Bend",
+      "state": "Oregon",
+      "count": 5,
+      "median": 37.0,
+      "min": 36.0,
+      "max": 39.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 44.046,
+      "lon": -121.313,
+      "category_medians": {
+        "Theft": 51.0,
+        "Robbery": 28.0,
+        "Vehicle Theft": 32.0,
+        "Simple Assault": 28.0,
+        "Sex Offenses": 39.0,
+        "Vandalism": 51.0,
+        "Fraud": 35.0,
+        "Homicide": 35.0,
+        "Drug & Alcohol Violations": 41.0,
+        "Aggravated Assault": 28.0,
+        "Burglary": 40.0,
+        "Shoplifting": 47.0,
+        "Theft from Vehicle": 40.0
+      }
+    },
+    {
+      "city": "Fair Lawn",
+      "state": "New Jersey",
+      "count": 5,
+      "median": 25.0,
+      "min": 22.0,
+      "max": 37.0,
+      "high_or_worse": 0,
+      "all_high": false,
+      "lat": 40.936,
+      "lon": -74.121,
+      "category_medians": {
+        "Theft": 19.0,
+        "Robbery": 35.0,
+        "Vehicle Theft": 27.0,
+        "Simple Assault": 19.0,
+        "Sex Offenses": 18.0,
+        "Vandalism": 22.0,
+        "Fraud": 21.0,
+        "Homicide": 29.0,
+        "Drug & Alcohol Violations": 24.0,
+        "Aggravated Assault": 27.0,
+        "Burglary": 27.0,
+        "Shoplifting": 27.0,
+        "Theft from Vehicle": 23.0
+      }
+    }
+  ],
+  "quarantine_sample": [],
+  "critical_present": false
+}
